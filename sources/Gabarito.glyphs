@@ -745,111 +745,6 @@ kernLeft = A;
 kernRight = A;
 layers = (
 {
-background = {
-anchors = (
-{
-name = bottom;
-pos = (331,0);
-},
-{
-name = ogonek;
-pos = (642,0);
-},
-{
-name = top;
-pos = (331,681);
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = (1,7);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (1,6);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (1,7);
-other1 = (0,3,1,1);
-target = (1,6);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,3,1,1);
-stem = 1;
-target = (0,1,1,1);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (1,7);
-target = (1,3);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,3,1,1);
-other1 = (1,1,1,3);
-target = (1,6);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-origin = (2,3);
-stem = 2;
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (2,3);
-stem = -1;
-target = (2,1);
-type = TTStem;
-}
-);
-shapes = (
-{
-closed = 1;
-nodes = (
-(148,159,l),
-(515,159,l),
-(515,253,l),
-(148,253,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(122,0,l),
-(340,611,l),
-(322,611,l),
-(540,0,l),
-(642,0,l),
-(399,681,l),
-(263,681,l),
-(20,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(474,891,l),
-(423,942,l),
-(271,802,l),
-(321,750,l)
-);
-}
-);
-};
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 shapes = (
 {
@@ -872,55 +767,6 @@ com.typemytype.robofont.mark = (
 width = 662;
 },
 {
-background = {
-anchors = (
-{
-name = bottom;
-pos = (357,0);
-},
-{
-name = ogonek;
-pos = (710,0);
-},
-{
-name = top;
-pos = (370,750);
-}
-);
-shapes = (
-{
-closed = 1;
-nodes = (
-(186,112,l),
-(500,112,l),
-(500,296,l),
-(186,296,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(204,0,l),
-(410,614,l),
-(330,614,l),
-(510,0,l),
-(710,0,l),
-(469,750,l),
-(270,750,l),
-(4,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(550,975,l),
-(457,1069,l),
-(275,902,l),
-(367,807,l)
-);
-}
-);
-};
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
 shapes = (
 {
@@ -4495,78 +4341,6 @@ kernLeft = UCstraights;
 kernRight = UCstraights;
 layers = (
 {
-background = {
-anchors = (
-{
-name = bottom;
-pos = (135,0);
-},
-{
-name = ogonek;
-pos = (185,0);
-},
-{
-name = top;
-pos = (133,943);
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = (0,1);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,2);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (1,6);
-stem = 2;
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (1,6);
-target = (1,2);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (1,6);
-stem = -1;
-target = (1,4);
-type = TTStem;
-}
-);
-shapes = (
-{
-closed = 1;
-nodes = (
-(185,681,l),
-(85,681,l),
-(85,0,l),
-(185,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(163,868,l),
-(103,868,l),
-(202,751,l),
-(261,800,l),
-(133,943,l),
-(5,800,l),
-(64,751,l)
-);
-}
-);
-};
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 shapes = (
 {
@@ -4589,45 +4363,6 @@ com.typemytype.robofont.mark = (
 width = 270;
 },
 {
-background = {
-anchors = (
-{
-name = bottom;
-pos = (145,0);
-},
-{
-name = ogonek;
-pos = (225,0);
-},
-{
-name = top;
-pos = (146,1064);
-}
-);
-shapes = (
-{
-closed = 1;
-nodes = (
-(245,750,l),
-(45,750,l),
-(45,0,l),
-(245,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(167,913,l),
-(125,913,l),
-(214,813,l),
-(309,899,l),
-(146,1064,l),
-(-17,899,l),
-(78,813,l)
-);
-}
-);
-};
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
 shapes = (
 {
@@ -9229,54 +8964,6 @@ unicode = 352;
 glyphname = Germandbls;
 layers = (
 {
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(232,65,l),
-(273,11,o),
-(355,-30,o),
-(436,-30,cs),
-(572,-30,o),
-(654,48,o),
-(654,166,cs),
-(654,262,o),
-(598,341,o),
-(447,397,c),
-(450,330,l),
-(623,557,l),
-(551,644,o),
-(459,690,o),
-(355,690,cs),
-(181,690,o),
-(89,592,o),
-(89,439,cs),
-(89,0,l),
-(189,0,l),
-(189,417,ls),
-(189,551,o),
-(262,595,o),
-(355,595,cs),
-(430,595,o),
-(499,551,o),
-(527,504,c),
-(523,592,l),
-(331,338,l),
-(384,318,ls),
-(497,275,o),
-(546,232,o),
-(546,166,cs),
-(546,111,o),
-(505,66,o),
-(436,66,cs),
-(388,66,o),
-(341,87,o),
-(303,127,c)
-);
-}
-);
-};
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 shapes = (
 {
@@ -12247,32 +11934,6 @@ kernLeft = UCstraights;
 kernRight = U;
 layers = (
 {
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(281,878,l),
-(230,929,l),
-(78,789,l),
-(128,737,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(833,878,l),
-(782,929,l),
-(630,789,l),
-(680,737,l)
-);
-},
-{
-pos = (-10,0);
-ref = IJ;
-}
-);
-};
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 shapes = (
 {
@@ -12500,32 +12161,6 @@ width = 838;
 width = 800;
 },
 {
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(330,998,l),
-(237,1092,l),
-(55,925,l),
-(147,830,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(972,998,l),
-(879,1092,l),
-(697,925,l),
-(789,830,l)
-);
-},
-{
-pos = (-1,0);
-ref = IJ;
-}
-);
-};
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
 shapes = (
 {
@@ -28439,32 +28074,6 @@ kernLeft = i;
 kernRight = i;
 layers = (
 {
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(259,698,l),
-(208,749,l),
-(56,609,l),
-(106,557,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(498,698,l),
-(447,749,l),
-(295,609,l),
-(345,557,l)
-);
-},
-{
-pos = (-9,0);
-ref = dotlessij;
-}
-);
-};
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 shapes = (
 {
@@ -28814,31 +28423,6 @@ width = 577;
 width = 471;
 },
 {
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(314,765,l),
-(221,859,l),
-(39,692,l),
-(131,597,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(593,766,l),
-(500,860,l),
-(318,693,l),
-(410,598,l)
-);
-},
-{
-ref = dotlessij;
-}
-);
-};
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
 shapes = (
 {
@@ -30100,40 +29684,6 @@ unicode = 946;
 glyphname = gamma;
 layers = (
 {
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(356,70,o),
-(446,278,o),
-(446,462,cs),
-(446,488,l),
-(341,488,l),
-(341,444,ls),
-(341,279,o),
-(264,115,o),
-(158,45,c),
-(211,-27,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(116,488,l),
-(17,488,l),
-(50,400,ls),
-(134,175,o),
-(176,45,o),
-(176,-175,c),
-(272,-175,l),
-(272,62,o),
-(220,218,o),
-(141,423,cs)
-);
-}
-);
-};
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 shapes = (
 {
@@ -30174,40 +29724,6 @@ com.typemytype.robofont.guides = (
 width = 467;
 },
 {
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(510,65,o),
-(619,329,o),
-(619,513,cs),
-(619,539,l),
-(384,539,l),
-(384,495,ls),
-(384,275,o),
-(305,151,o),
-(199,86,c),
-(365,-32,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(248,540,l),
-(4,540,l),
-(37,452,ls),
-(122,225,o),
-(206,20,o),
-(206,-200,c),
-(435,-200,l),
-(435,-11,o),
-(336,267,o),
-(269,475,cs)
-);
-}
-);
-};
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
 shapes = (
 {
@@ -62143,15 +61659,6 @@ kernLeft = q;
 kernRight = quotebase;
 layers = (
 {
-background = {
-shapes = (
-{
-angle = 180;
-pos = (187,576);
-ref = quoteleft;
-}
-);
-};
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 shapes = (
 {
@@ -62277,15 +61784,6 @@ com.typemytype.robofont.mark = (
 width = 183;
 },
 {
-background = {
-shapes = (
-{
-angle = 180;
-pos = (329,576);
-ref = quoteleft;
-}
-);
-};
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
 shapes = (
 {
@@ -62940,15 +62438,6 @@ kernLeft = quoteright;
 kernRight = quoteright;
 layers = (
 {
-background = {
-shapes = (
-{
-angle = 180;
-pos = (382,1151);
-ref = quotedblleft;
-}
-);
-};
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 shapes = (
 {
@@ -63168,15 +62657,6 @@ com.typemytype.robofont.mark = (
 width = 382;
 },
 {
-background = {
-shapes = (
-{
-angle = 180;
-pos = (624,1151);
-ref = quotedblleft;
-}
-);
-};
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
 shapes = (
 {
@@ -63435,15 +62915,6 @@ kernLeft = quoteright;
 kernRight = quoteright;
 layers = (
 {
-background = {
-shapes = (
-{
-angle = 180;
-pos = (183,1150);
-ref = quoteleft;
-}
-);
-};
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 shapes = (
 {
@@ -63586,15 +63057,6 @@ com.typemytype.robofont.mark = (
 width = 183;
 },
 {
-background = {
-shapes = (
-{
-angle = 180;
-pos = (325,1151);
-ref = quoteleft;
-}
-);
-};
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
 shapes = (
 {
@@ -69623,15 +69085,6 @@ unicode = 8745;
 glyphname = uni222A;
 layers = (
 {
-background = {
-shapes = (
-{
-pos = (0,518);
-ref = intersection;
-scale = (1,-1);
-}
-);
-};
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 shapes = (
 {
@@ -69661,15 +69114,6 @@ nodes = (
 width = 574;
 },
 {
-background = {
-shapes = (
-{
-pos = (-1,565);
-ref = intersection;
-scale = (1,-1);
-}
-);
-};
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
 shapes = (
 {
