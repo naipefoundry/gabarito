@@ -92608,9 +92608,6 @@ key = vendorID;
 value = NYPE;
 }
 );
-settings = {
-disablesNiceNames = 1;
-};
 stems = (
 {
 horizontal = 1;
