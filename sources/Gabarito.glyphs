@@ -650,7 +650,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:23:24 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -759,7 +758,6 @@ ref = acutecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -880,7 +878,6 @@ ref = circumflexcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -933,7 +930,6 @@ ref = dieresiscomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -986,7 +982,6 @@ ref = gravecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -1123,7 +1118,6 @@ ref = ringcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -1176,7 +1170,6 @@ ref = tildecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -1270,7 +1263,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -1524,7 +1516,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:25:33 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -1723,7 +1714,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:27:29 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -2163,7 +2153,6 @@ ref = cedillacomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -2286,9 +2275,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:26:16 +0000";
-};
 width = 679;
 },
 {
@@ -2571,7 +2557,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -2778,7 +2763,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:29:38 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -2927,7 +2911,6 @@ ref = acutecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -3014,7 +2997,6 @@ ref = circumflexcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -3067,7 +3049,6 @@ ref = dieresiscomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -3154,7 +3135,6 @@ ref = gravecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -3364,9 +3344,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:30:28 +0000";
-};
 width = 519;
 },
 {
@@ -3560,9 +3537,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:30:53 +0000";
-};
 width = 728;
 },
 {
@@ -3996,7 +3970,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:32:14 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -4382,7 +4355,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 18:18:23 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -4477,7 +4449,6 @@ ref = J;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2020-07-23 20:48:31 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -4823,7 +4794,6 @@ ref = acutecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -4876,7 +4846,6 @@ ref = circumflexcomb.narrow;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -4929,7 +4898,6 @@ ref = dieresiscomb.narrow;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -5016,7 +4984,6 @@ ref = gravecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -5159,7 +5126,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:31:04 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -5450,7 +5416,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:32:47 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -5752,7 +5717,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:23:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -6154,9 +6118,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:23:55 +0000";
-};
 width = 877;
 },
 {
@@ -6516,7 +6477,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:33:33 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -6706,7 +6666,6 @@ ref = tildecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -6902,7 +6861,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:23:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -7188,7 +7146,6 @@ ref = acutecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -7241,7 +7198,6 @@ ref = circumflexcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -7294,7 +7250,6 @@ ref = dieresiscomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -7347,7 +7302,6 @@ ref = gravecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -7518,7 +7472,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -7858,7 +7811,6 @@ ref = tildecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -8360,7 +8312,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:34:42 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -8488,7 +8439,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:34:42 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -8643,7 +8593,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:39:15 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -8988,7 +8937,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 18:17:04 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -9447,7 +9395,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:23:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -10131,7 +10078,6 @@ ref = caroncomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -11139,7 +11085,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:58:37 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -11408,7 +11353,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:42:56 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -11703,7 +11647,6 @@ ref = acutecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -11790,7 +11733,6 @@ ref = circumflexcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -11843,7 +11785,6 @@ ref = dieresiscomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:46 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -11896,7 +11837,6 @@ ref = gravecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -12101,7 +12041,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:58:52 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -12271,7 +12210,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:59:23 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -12702,9 +12640,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 14:00:27 +0000";
-};
 width = 641;
 },
 {
@@ -12932,7 +12867,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 14:00:44 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -13073,7 +13007,6 @@ ref = acutecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:24:44 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -13160,7 +13093,6 @@ ref = dieresiscomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -13271,7 +13203,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 14:00:57 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -13485,7 +13416,6 @@ ref = caroncomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -13588,7 +13518,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-13 23:31:04 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -14000,7 +13929,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-22 18:27:57 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -15031,7 +14959,6 @@ ref = acutecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -15152,7 +15079,6 @@ ref = circumflexcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -15205,7 +15131,6 @@ ref = dieresiscomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -15258,7 +15183,6 @@ ref = gravecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -15395,7 +15319,6 @@ ref = ringcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -15448,7 +15371,6 @@ ref = tildecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -16976,7 +16898,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -17319,7 +17240,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -17800,7 +17720,6 @@ ref = cedillacomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -17945,7 +17864,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -19297,7 +19215,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -20055,7 +19972,6 @@ ref = acutecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -20142,7 +20058,6 @@ ref = circumflexcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -20195,7 +20110,6 @@ ref = dieresiscomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -20282,7 +20196,6 @@ ref = gravecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -20501,9 +20414,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 17:33:51 +0000";
-};
 width = 314;
 },
 {
@@ -20787,7 +20697,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -21062,7 +20971,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 17:39:39 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -21333,7 +21241,6 @@ ref = dotaccentcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -21450,7 +21357,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -21534,7 +21440,6 @@ ref = acutecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -21587,7 +21492,6 @@ ref = circumflexcomb.narrow;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -21640,7 +21544,6 @@ ref = dieresiscomb.narrow;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -21726,7 +21629,6 @@ ref = gravecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -21779,7 +21681,6 @@ ref = j;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2020-07-23 20:48:31 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -22193,9 +22094,6 @@ pos = (-149,0);
 ref = dotaccentcomb;
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
-};
 width = 236;
 },
 {
@@ -22492,7 +22390,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -22626,7 +22523,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -23012,9 +22908,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 18:04:33 +0000";
-};
 width = 848;
 },
 {
@@ -23379,7 +23272,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 17:39:39 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -23735,7 +23627,6 @@ ref = tildecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -23931,7 +23822,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 18:03:17 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -24045,7 +23935,6 @@ ref = acutecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -24098,7 +23987,6 @@ ref = circumflexcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -24151,7 +24039,6 @@ ref = dieresiscomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -24204,7 +24091,6 @@ ref = gravecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -24663,7 +24549,6 @@ ref = tildecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -25313,9 +25198,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 18:04:56 +0000";
-};
 width = 570;
 },
 {
@@ -25614,7 +25496,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 18:04:56 +0000";
 com.typemytype.robofont.mark = (
 0.743,
 0.775,
@@ -25925,9 +25806,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
-};
 width = 570;
 },
 {
@@ -26049,7 +25927,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -26420,7 +26297,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-22 18:37:44 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -26842,7 +26718,6 @@ ref = caroncomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -28306,7 +28181,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 17:41:00 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -28756,7 +28630,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -29045,7 +28918,6 @@ ref = acutecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -29132,7 +29004,6 @@ ref = circumflexcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -29185,7 +29056,6 @@ ref = dieresiscomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -29238,7 +29108,6 @@ ref = gravecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -29442,9 +29311,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
-};
 width = 507;
 },
 {
@@ -29588,7 +29454,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -29984,9 +29849,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
-};
 width = 489;
 },
 {
@@ -30183,7 +30045,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -30331,7 +30192,6 @@ ref = acutecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -30418,7 +30278,6 @@ ref = dieresiscomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:51:05 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -30529,7 +30388,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -30745,7 +30603,6 @@ ref = caroncomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -30950,7 +30807,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-22 18:27:57 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -31161,7 +31017,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 18:03:17 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -31283,7 +31138,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:23:24 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -31892,7 +31746,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 17:39:39 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -33255,7 +33108,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 17:39:39 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -34138,7 +33990,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -34595,9 +34446,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 18:04:56 +0000";
-};
 width = 597;
 },
 {
@@ -34883,7 +34731,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 18:03:17 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -35927,7 +35774,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 18:04:56 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -36770,7 +36616,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 18:04:56 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -36902,7 +36747,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -37094,7 +36938,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -37332,7 +37175,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -37607,7 +37449,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -37890,7 +37731,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -38122,7 +37962,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -38400,7 +38239,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -38724,7 +38562,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -39068,7 +38905,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -39383,7 +39219,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -39659,7 +39494,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -39942,7 +39776,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -40109,7 +39942,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 );
 com.typemytype.robofont.layerData = {
@@ -40409,7 +40241,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -41147,7 +40978,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -41413,7 +41243,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.mark = (
 1,
 1,
@@ -41498,7 +41327,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -41656,7 +41484,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -41996,7 +41823,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.mark = (
 1,
 1,
@@ -42256,7 +42082,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -42691,7 +42516,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -42955,7 +42779,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.mark = (
 1,
 1,
@@ -43070,7 +42893,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -43436,7 +43258,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -44367,7 +44188,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.6,
@@ -44615,7 +44435,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -44863,7 +44682,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.6,
@@ -44981,7 +44799,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.6,
@@ -45372,7 +45189,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.6,
@@ -45470,7 +45286,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.6,
@@ -45592,7 +45407,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.6,
@@ -45689,7 +45503,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.6,
@@ -45803,7 +45616,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.6,
@@ -45952,7 +45764,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.6,
@@ -46105,9 +45916,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
-};
 width = 779;
 },
 {
@@ -46251,9 +46059,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
-};
 width = 779;
 },
 {
@@ -46393,7 +46198,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -46586,7 +46390,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -46888,7 +46691,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -47123,7 +46925,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -47417,7 +47218,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -47673,7 +47473,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -47927,7 +47726,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -48255,7 +48053,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -48529,9 +48326,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
-};
 width = 717;
 },
 {
@@ -48641,9 +48435,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
-};
 width = 717;
 },
 {
@@ -48749,7 +48540,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -48908,7 +48698,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -49169,7 +48958,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -49370,7 +49158,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -49630,7 +49417,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -49852,7 +49638,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -50072,7 +49857,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -50359,7 +50143,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -50598,7 +50381,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -50696,9 +50478,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
-};
 width = 232;
 },
 {
@@ -50775,7 +50554,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -50912,7 +50690,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -51062,9 +50839,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
-};
 width = 357;
 },
 {
@@ -51195,7 +50969,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -51419,7 +51192,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -51527,9 +51299,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
-};
 width = 325;
 },
 {
@@ -51636,7 +51405,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -51805,7 +51573,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -51949,7 +51716,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -52206,7 +51972,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -52378,7 +52143,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -52678,7 +52442,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -53113,7 +52876,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -53319,7 +53081,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -53675,7 +53436,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -54018,7 +53778,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -54200,7 +53959,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -54677,7 +54435,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -55030,7 +54787,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 0,
 0.502,
@@ -55091,7 +54847,6 @@ ref = two.dnom;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2020-07-23 20:48:31 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -55207,7 +54962,6 @@ ref = four.dnom;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2020-07-23 20:48:31 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -55366,7 +55120,6 @@ ref = three.numr;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2020-07-23 20:48:31 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -55498,7 +55251,6 @@ ref = zero.dnom;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -55713,7 +55465,6 @@ ref = one.dnom;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -55846,7 +55597,6 @@ ref = two.dnom;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -56073,7 +55823,6 @@ ref = three.dnom;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -56442,7 +56191,6 @@ ref = four.dnom;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -56595,7 +56343,6 @@ ref = five.dnom;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -56874,7 +56621,6 @@ ref = six.dnom;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -57165,7 +56911,6 @@ ref = seven.dnom;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -57278,7 +57023,6 @@ ref = eight.dnom;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -57651,7 +57395,6 @@ ref = nine.dnom;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -57956,7 +57699,6 @@ ref = zero.numr;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -58171,7 +57913,6 @@ ref = one.numr;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -58304,7 +58045,6 @@ ref = two.numr;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -58531,7 +58271,6 @@ ref = three.numr;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -58900,7 +58639,6 @@ ref = four.numr;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -59053,7 +58791,6 @@ ref = five.numr;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -59332,7 +59069,6 @@ ref = six.numr;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -59623,7 +59359,6 @@ ref = seven.numr;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -59736,7 +59471,6 @@ ref = eight.numr;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -60109,7 +59843,6 @@ ref = nine.numr;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -60605,7 +60338,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -61049,7 +60781,6 @@ layers = (
 {
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-22 18:37:44 +0000";
 com.typemytype.robofont.mark = (
 0,
 0.502,
@@ -61223,9 +60954,6 @@ glyphname = space;
 layers = (
 {
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
-};
 width = 260;
 },
 {
@@ -61321,9 +61049,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
-};
 width = 269;
 },
 {
@@ -61385,7 +61110,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -61569,7 +61293,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -61832,7 +61555,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -62118,7 +61840,6 @@ ref = period;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -62415,7 +62136,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -62528,7 +62248,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -62762,9 +62481,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
-};
 width = 538;
 },
 {
@@ -62907,7 +62623,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -63214,7 +62929,6 @@ ref = period;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -63355,9 +63069,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
-};
 width = 384;
 },
 {
@@ -63437,7 +63148,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -63609,7 +63319,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.mark = (
 0.8,
 1,
@@ -63690,9 +63399,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
-};
 width = 455;
 },
 {
@@ -63730,7 +63436,6 @@ scale = (-1,1);
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:15 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -63965,9 +63670,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
-};
 width = 368;
 },
 {
@@ -64053,9 +63755,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
-};
 width = 568;
 },
 {
@@ -64098,9 +63797,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
-};
 width = 994;
 },
 {
@@ -64141,9 +63837,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:15 +0000";
-};
 width = 544;
 },
 {
@@ -64194,9 +63887,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
-};
 width = 351;
 },
 {
@@ -64258,7 +63948,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -64465,7 +64154,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -64640,7 +64328,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -65061,9 +64748,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:15 +0000";
-};
 width = 312;
 },
 {
@@ -65142,7 +64826,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:15 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -65312,7 +64995,6 @@ ref = quoteright;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -65469,7 +65151,6 @@ ref = quoteright;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -65720,7 +65401,6 @@ ref = quoteleft;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -66095,7 +65775,6 @@ ref = quoteright;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -66385,9 +66064,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
-};
 width = 183;
 },
 {
@@ -66585,7 +66261,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -67169,9 +66844,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
-};
 width = 325;
 },
 {
@@ -67275,7 +66947,6 @@ scale = (-1,1);
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -67383,7 +67054,6 @@ ref = quotesingle;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -67524,7 +67194,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -67713,7 +67382,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -68785,7 +68453,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -68943,7 +68610,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -70890,7 +70556,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -71679,7 +71344,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 0.8,
 1,
@@ -71796,7 +71460,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.mark = (
 0,
 0.502,
@@ -71878,7 +71541,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.mark = (
 0.8,
 1,
@@ -71944,7 +71606,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.layerData = {
 mask = {
 anchors = (
@@ -72120,7 +71781,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.mark = (
 0.8,
 1,
@@ -72501,7 +72161,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.mark = (
 0.8,
 1,
@@ -72671,7 +72330,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -72841,7 +72499,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 75;
@@ -73409,7 +73066,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -73562,7 +73218,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.mark = (
 0.8,
 1,
@@ -73670,7 +73325,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -74231,7 +73885,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -74315,7 +73968,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 0,
 0.502,
@@ -74379,7 +74031,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-12 02:45:39 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -74569,7 +74220,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:24 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -74676,7 +74326,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.mark = (
 0,
 0.502,
@@ -74758,7 +74407,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -74967,7 +74615,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.mark = (
 0,
 0.502,
@@ -75030,7 +74677,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 com.typemytype.robofont.mark = (
 0,
 0.502,
@@ -75102,7 +74748,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -75201,7 +74846,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -75305,7 +74949,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.mark = (
 0,
 0.502,
@@ -75419,7 +75062,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 0,
 0.502,
@@ -75692,7 +75334,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -75772,7 +75413,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.mark = (
 0,
 0.502,
@@ -75838,7 +75478,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:15 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -75932,7 +75571,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -76461,7 +76099,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 );
 com.typemytype.robofont.mark = (
@@ -76564,7 +76201,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:32:14 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -76738,7 +76374,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:29:38 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 0;
@@ -76877,7 +76512,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 0,
 0.502,
@@ -76979,7 +76613,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -77413,7 +77046,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -77888,7 +77520,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 0,
 0.502,
@@ -79632,7 +79263,6 @@ ref = leftArrow;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -79747,7 +79377,6 @@ ref = leftArrow;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -79860,7 +79489,6 @@ ref = leftArrow;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -80039,7 +79667,6 @@ ref = leftArrow;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -80152,7 +79779,6 @@ ref = leftArrow;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -80292,7 +79918,6 @@ ref = leftArrow;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -80444,7 +80069,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -80509,7 +80133,6 @@ ref = leftArrow;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -80669,7 +80292,6 @@ ref = upAndDownArrow;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.layerData = {
 background = {
 anchors = (
@@ -80887,9 +80509,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
-};
 width = 906;
 },
 {
@@ -81093,7 +80712,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 0,
 0.502,
@@ -81209,7 +80827,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -81385,7 +81002,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -81487,7 +81103,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:15 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -81564,7 +81179,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -81712,7 +81326,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -81786,7 +81399,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -82088,7 +81700,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -82226,7 +81837,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -82828,7 +82438,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -83228,7 +82837,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -83553,7 +83161,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -83666,7 +83273,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -83791,7 +83397,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -84362,7 +83967,6 @@ nodes = (
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -84466,7 +84070,6 @@ ref = dieresiscomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -84578,7 +84181,6 @@ ref = dotaccentcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -84641,7 +84243,6 @@ ref = gravecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:15 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -84686,7 +84287,6 @@ ref = acutecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -84731,7 +84331,6 @@ ref = hungarumlautcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -84794,7 +84393,6 @@ ref = circumflexcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -84864,7 +84462,6 @@ ref = caroncomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -84954,7 +84551,6 @@ ref = brevecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -85169,7 +84765,6 @@ ref = ringcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -85223,7 +84818,6 @@ ref = tildecomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.guides = (
 {
 angle = 90;
@@ -85286,7 +84880,6 @@ ref = macroncomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -85331,7 +84924,6 @@ ref = cedillacomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:19 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
@@ -85376,7 +84968,6 @@ ref = ogonekcomb;
 }
 );
 userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 com.typemytype.robofont.mark = (
 1,
 0.435,
