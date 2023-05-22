@@ -115,11 +115,12 @@ feature case;
 tag = aalt;
 },
 {
-automatic = 1;
-code = "lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	@CombiningNonTopAccents = [cedillacomb dotbelowcomb ogonekcomb slashshortcomb strokelongcomb strokeshortcomb];
+code = "@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+@CombiningNonTopAccents = [cedillacomb commaaccentcomb dotbelowcomb ogonekcomb slashshortcomb strokelongcomb strokeshortcomb];
+
+lookup ccmp_Other_1 {
 	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub iogonek' @CombiningTopAccents by idotless ogonekcomb;
 	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
 } ccmp_Other_1;
 
@@ -21341,6 +21342,10 @@ name = bottom;
 pos = (117,0);
 },
 {
+name = center;
+pos = (116,255);
+},
+{
 name = ogonek;
 pos = (166,0);
 },
@@ -21379,6 +21384,10 @@ anchors = (
 {
 name = bottom;
 pos = (149,0);
+},
+{
+name = center;
+pos = (149,283);
 },
 {
 name = ogonek;
