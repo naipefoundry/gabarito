@@ -63716,33 +63716,6 @@ note = "\012    hyphen\012  ";
 unicode = 45;
 },
 {
-color = 3;
-glyphname = softhyphen;
-kernLeft = dashes;
-kernRight = dashes;
-layers = (
-{
-layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
-shapes = (
-{
-ref = hyphen;
-}
-);
-width = 368;
-},
-{
-layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
-shapes = (
-{
-ref = hyphen;
-}
-);
-width = 408;
-}
-);
-unicode = 173;
-},
-{
 glyphname = endash;
 kernLeft = dashes;
 kernRight = dashes;
