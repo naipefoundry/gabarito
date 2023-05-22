@@ -85038,7 +85038,7 @@ instanceInterpolations = {
 "1CA3C852-39F9-4810-8045-E03244E0B506" = 0.8;
 "344A0678-763D-4FBD-9EF6-1E94428A847E" = 0.2;
 };
-name = Black;
+name = ExtraBold;
 weightClass = 800;
 },
 {
@@ -85048,7 +85048,7 @@ axesValues = (
 instanceInterpolations = {
 "1CA3C852-39F9-4810-8045-E03244E0B506" = 1;
 };
-name = Ultra;
+name = Black;
 weightClass = 900;
 }
 );
