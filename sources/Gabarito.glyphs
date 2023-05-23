@@ -71,6 +71,19 @@ value = 0;
 name = fsType;
 value = (
 );
+},
+{
+name = "meta Table";
+value = (
+{
+data = latn;
+tag = dlng;
+},
+{
+data = latn;
+tag = slng;
+}
+);
 }
 );
 date = "2023-05-15 15:00:31 +0000";
