@@ -80666,6 +80666,494 @@ width = 911;
 unicode = 8660;
 },
 {
+glyphname = dottedCircle;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (382,0);
+},
+{
+name = center;
+pos = (382,340);
+},
+{
+name = ogonek;
+pos = (447,12);
+},
+{
+name = top;
+pos = (382,681);
+},
+{
+name = topleft;
+pos = (89,681);
+},
+{
+name = topright;
+pos = (675,681);
+}
+);
+background = {
+anchors = (
+{
+name = "#rotate";
+pos = (382,340);
+},
+{
+name = bottom;
+pos = (382,0);
+},
+{
+name = center;
+pos = (382,340);
+},
+{
+name = ogonek;
+pos = (447,12);
+},
+{
+name = top;
+pos = (382,681);
+},
+{
+name = topleft;
+pos = (89,681);
+},
+{
+name = topright;
+pos = (675,681);
+}
+);
+shapes = (
+{
+alignment = -1;
+pos = (248,0);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 22.5;
+pos = (388.313,-25.399);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 45;
+pos = (527.664,4.831);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 67.5;
+pos = (644.839,86.088);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 90;
+pos = (722,206);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 112.5;
+pos = (747.399,346.313);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 135;
+pos = (717.169,485.664);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 157.5;
+pos = (635.912,602.839);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (516,680);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = -157.5;
+pos = (375.687,705.399);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = -135;
+pos = (236.336,675.169);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = -112.5;
+pos = (119.161,593.912);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = -90;
+pos = (42,474);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = -67.5;
+pos = (16.601,333.687);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = -45;
+pos = (46.831,194.336);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = -22.5;
+pos = (128.088,77.161);
+ref = _dot;
+}
+);
+};
+layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
+shapes = (
+{
+alignment = -1;
+pos = (248,0);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (368,24);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (470,92);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (538,194);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (562,314);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (538,434);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (470,536);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (368,604);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (248,628);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (128,604);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (26,536);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (-42,434);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (-66,314);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (-42,194);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (26,92);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (128,24);
+ref = _dot;
+}
+);
+width = 764;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (420,0);
+},
+{
+name = center;
+pos = (420,375);
+},
+{
+name = ogonek;
+pos = (502,12);
+},
+{
+name = top;
+pos = (420,750);
+},
+{
+name = topleft;
+pos = (89,750);
+},
+{
+name = topright;
+pos = (751,750);
+}
+);
+background = {
+anchors = (
+{
+name = "#rotate";
+pos = (420,375);
+},
+{
+name = bottom;
+pos = (420,0);
+},
+{
+name = center;
+pos = (420,375);
+},
+{
+name = ogonek;
+pos = (502,12);
+},
+{
+name = top;
+pos = (420,750);
+},
+{
+name = topleft;
+pos = (89,750);
+},
+{
+name = topright;
+pos = (751,750);
+}
+);
+shapes = (
+{
+alignment = -1;
+pos = (286,0);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 22.5;
+pos = (439.706,-22.734);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 45;
+pos = (590.413,15.083);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 67.5;
+pos = (715.175,107.694);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 90;
+pos = (795,241);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 112.5;
+pos = (817.734,394.706);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 135;
+pos = (779.917,545.413);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 157.5;
+pos = (687.306,670.175);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (554,750);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = -157.5;
+pos = (400.294,772.734);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = -135;
+pos = (249.587,734.917);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = -112.5;
+pos = (124.825,642.306);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = -90;
+pos = (45,509);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = -67.5;
+pos = (22.266,355.294);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = -45;
+pos = (60.083,204.587);
+ref = _dot;
+},
+{
+alignment = -1;
+angle = -22.5;
+pos = (152.694,79.825);
+ref = _dot;
+}
+);
+};
+layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
+shapes = (
+{
+alignment = -1;
+pos = (286,0);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (415,25);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (524,98);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (597,207);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (622,336);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (597,465);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (524,574);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (415,647);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (286,672);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (157,647);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (48,574);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (-25,465);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (-50,336);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (-25,207);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (48,98);
+ref = _dot;
+},
+{
+alignment = -1;
+pos = (157,25);
+ref = _dot;
+}
+);
+width = 841;
+}
+);
+unicode = 9676;
+},
+{
 glyphname = lozenge;
 layers = (
 {
@@ -84986,6 +85474,63 @@ width = 634;
 );
 note = "\012    ogonek\012  ";
 unicode = 731;
+},
+{
+export = 0;
+glyphname = _dot;
+kernLeft = period;
+layers = (
+{
+layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(153,-9,o),
+(169,7,o),
+(169,26,cs),
+(169,45,o),
+(153,61,o),
+(134,61,cs),
+(115,61,o),
+(99,45,o),
+(99,26,cs),
+(99,7,o),
+(115,-9,o),
+(134,-9,cs)
+);
+}
+);
+width = 268;
+},
+{
+layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,-9,o),
+(182,13,o),
+(182,39,cs),
+(182,65,o),
+(160,87,o),
+(134,87,cs),
+(108,87,o),
+(86,65,o),
+(86,39,cs),
+(86,13,o),
+(108,-9,o),
+(134,-9,cs)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
+};
+width = 268;
+}
+);
+note = "\012    period\012  ";
 }
 );
 instances = (
