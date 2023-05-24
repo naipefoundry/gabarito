@@ -462,35 +462,35 @@ value = -195;
 },
 {
 name = typoAscender;
-value = 930;
+value = 940;
 },
 {
 name = typoDescender;
-value = -250;
+value = -260;
 },
 {
 name = typoLineGap;
-value = 20;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 930;
+value = 940;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -260;
 },
 {
 name = hheaLineGap;
-value = 20;
+value = 0;
 },
 {
 name = winAscent;
-value = 1100;
+value = 998;
 },
 {
 name = winDescent;
-value = 320;
+value = 295;
 }
 );
 iconName = Bold;
@@ -546,35 +546,35 @@ value = -195;
 },
 {
 name = typoAscender;
-value = 930;
+value = 940;
 },
 {
 name = typoDescender;
-value = -250;
+value = -260;
 },
 {
 name = typoLineGap;
-value = 20;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 930;
+value = 940;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -260;
 },
 {
 name = hheaLineGap;
-value = 20;
+value = 0;
 },
 {
 name = winAscent;
-value = 1100;
+value = 998;
 },
 {
 name = winDescent;
-value = 320;
+value = 295;
 }
 );
 iconName = Bold;
@@ -608,8 +608,8 @@ pos = -190;
 );
 name = Ultra;
 stemValues = (
-195,
-202
+177,
+184
 );
 userData = {
 GSCornerRadius = 15;
