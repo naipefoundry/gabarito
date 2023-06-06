@@ -9,6 +9,8 @@ package.json
 master_ufo
 instance_ufo
 
+.nova
+
 # OS generated files #
 ######################
 .DS_Store
