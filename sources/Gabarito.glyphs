@@ -69,6 +69,36 @@ data = latn;
 tag = slng;
 }
 );
+},
+{
+name = "Family Alignment Zones";
+value = (
+{
+pos = 681;
+size = 15;
+},
+{
+pos = 681;
+size = 15;
+},
+{
+pos = 488;
+size = 15;
+},
+{
+name = dnom;
+pos = 398;
+size = 8;
+},
+{
+pos = 0;
+size = "-15";
+},
+{
+pos = "-190";
+size = "-15";
+}
+);
 }
 );
 date = "2023-05-15 15:00:31 +0000";
