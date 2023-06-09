@@ -28,21 +28,6 @@ name = Uppercase;
 );
 customParameters = (
 {
-name = openTypeOS2Panose;
-value = (
-2,
-11,
-8,
-0,
-0,
-0,
-0,
-0,
-0,
-0
-);
-},
-{
 name = unicodeRanges;
 value = (
 0,
@@ -80439,6 +80424,21 @@ Axis = Weight;
 Location = 400;
 }
 );
+},
+{
+name = panose;
+value = (
+2,
+11,
+5,
+3,
+2,
+2,
+3,
+2,
+2,
+4
+);
 }
 );
 instanceInterpolations = {
@@ -80458,6 +80458,21 @@ value = (
 Axis = Weight;
 Location = 500;
 }
+);
+},
+{
+name = panose;
+value = (
+2,
+11,
+6,
+3,
+2,
+2,
+3,
+2,
+2,
+4
 );
 }
 );
@@ -80481,6 +80496,21 @@ Axis = Weight;
 Location = 600;
 }
 );
+},
+{
+name = panose;
+value = (
+2,
+11,
+7,
+3,
+2,
+2,
+3,
+2,
+2,
+4
+);
 }
 );
 instanceInterpolations = {
@@ -80502,6 +80532,21 @@ value = (
 Axis = Weight;
 Location = 700;
 }
+);
+},
+{
+name = panose;
+value = (
+2,
+11,
+8,
+3,
+2,
+2,
+3,
+2,
+2,
+4
 );
 }
 );
@@ -80526,6 +80571,21 @@ Axis = Weight;
 Location = 800;
 }
 );
+},
+{
+name = panose;
+value = (
+2,
+11,
+9,
+3,
+2,
+2,
+3,
+2,
+2,
+4
+);
 }
 );
 instanceInterpolations = {
@@ -80547,6 +80607,21 @@ value = (
 Axis = Weight;
 Location = 900;
 }
+);
+},
+{
+name = panose;
+value = (
+2,
+11,
+10,
+3,
+2,
+2,
+3,
+2,
+2,
+4
 );
 }
 );
