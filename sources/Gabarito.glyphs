@@ -449,7 +449,7 @@ tag = calt;
 fontMaster = (
 {
 axesValues = (
-400
+100
 );
 customParameters = (
 {
@@ -533,7 +533,7 @@ GSCornerRadius = 15;
 },
 {
 axesValues = (
-900
+181
 );
 customParameters = (
 {
@@ -80698,8 +80698,8 @@ value = GabaritoVariable;
 }
 );
 instanceInterpolations = {
-"1CA3C852-39F9-4810-8045-E03244E0B506" = -0.8;
-"344A0678-763D-4FBD-9EF6-1E94428A847E" = 1.8;
+"1CA3C852-39F9-4810-8045-E03244E0B506" = -1.23457;
+"344A0678-763D-4FBD-9EF6-1E94428A847E" = 2.23457;
 };
 name = Regular;
 properties = (
@@ -80717,7 +80717,18 @@ type = variable;
 },
 {
 axesValues = (
-400
+100
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
+}
 );
 instanceInterpolations = {
 "344A0678-763D-4FBD-9EF6-1E94428A847E" = 1;
@@ -80726,11 +80737,22 @@ name = Regular;
 },
 {
 axesValues = (
-650
+141
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
+}
 );
 instanceInterpolations = {
-"1CA3C852-39F9-4810-8045-E03244E0B506" = 0.5;
-"344A0678-763D-4FBD-9EF6-1E94428A847E" = 0.5;
+"1CA3C852-39F9-4810-8045-E03244E0B506" = 0.50617;
+"344A0678-763D-4FBD-9EF6-1E94428A847E" = 0.49383;
 };
 isBold = 1;
 linkStyle = Regular;
@@ -80739,18 +80761,40 @@ weightClass = 700;
 },
 {
 axesValues = (
-800
+165
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
+}
 );
 instanceInterpolations = {
-"1CA3C852-39F9-4810-8045-E03244E0B506" = 0.8;
-"344A0678-763D-4FBD-9EF6-1E94428A847E" = 0.2;
+"1CA3C852-39F9-4810-8045-E03244E0B506" = 0.80247;
+"344A0678-763D-4FBD-9EF6-1E94428A847E" = 0.19753;
 };
 name = ExtraBold;
 weightClass = 800;
 },
 {
 axesValues = (
-900
+181
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
+}
 );
 instanceInterpolations = {
 "1CA3C852-39F9-4810-8045-E03244E0B506" = 1;
