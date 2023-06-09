@@ -80737,7 +80737,51 @@ name = Regular;
 },
 {
 axesValues = (
-141
+116
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
+}
+);
+instanceInterpolations = {
+"1CA3C852-39F9-4810-8045-E03244E0B506" = 0.19753;
+"344A0678-763D-4FBD-9EF6-1E94428A847E" = 0.80247;
+};
+name = Medium;
+weightClass = 500;
+},
+{
+axesValues = (
+131
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
+}
+);
+instanceInterpolations = {
+"1CA3C852-39F9-4810-8045-E03244E0B506" = 0.38272;
+"344A0678-763D-4FBD-9EF6-1E94428A847E" = 0.61728;
+};
+name = Semibold;
+weightClass = 600;
+},
+{
+axesValues = (
+146
 );
 customParameters = (
 {
@@ -80751,17 +80795,16 @@ Location = 700;
 }
 );
 instanceInterpolations = {
-"1CA3C852-39F9-4810-8045-E03244E0B506" = 0.50617;
-"344A0678-763D-4FBD-9EF6-1E94428A847E" = 0.49383;
+"1CA3C852-39F9-4810-8045-E03244E0B506" = 0.5679;
+"344A0678-763D-4FBD-9EF6-1E94428A847E" = 0.4321;
 };
 isBold = 1;
-linkStyle = Regular;
 name = Bold;
 weightClass = 700;
 },
 {
 axesValues = (
-165
+162
 );
 customParameters = (
 {
@@ -80775,10 +80818,10 @@ Location = 800;
 }
 );
 instanceInterpolations = {
-"1CA3C852-39F9-4810-8045-E03244E0B506" = 0.80247;
-"344A0678-763D-4FBD-9EF6-1E94428A847E" = 0.19753;
+"1CA3C852-39F9-4810-8045-E03244E0B506" = 0.76543;
+"344A0678-763D-4FBD-9EF6-1E94428A847E" = 0.23457;
 };
-name = ExtraBold;
+name = Extrabold;
 weightClass = 800;
 },
 {
