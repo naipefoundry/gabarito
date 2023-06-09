@@ -80360,7 +80360,7 @@ instanceInterpolations = {
 "1CA3C852-39F9-4810-8045-E03244E0B506" = 0.38272;
 "344A0678-763D-4FBD-9EF6-1E94428A847E" = 0.61728;
 };
-name = Semibold;
+name = SemiBold;
 weightClass = 600;
 },
 {
@@ -80405,7 +80405,7 @@ instanceInterpolations = {
 "1CA3C852-39F9-4810-8045-E03244E0B506" = 0.76543;
 "344A0678-763D-4FBD-9EF6-1E94428A847E" = 0.23457;
 };
-name = Extrabold;
+name = ExtraBold;
 weightClass = 800;
 },
 {
