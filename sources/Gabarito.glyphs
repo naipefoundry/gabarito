@@ -31468,6 +31468,12 @@ kernLeft = ft;
 kernRight = i;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (314,0);
+}
+);
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 shapes = (
 {
@@ -31485,6 +31491,12 @@ ref = dotaccentcomb;
 width = 546;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (357,0);
+}
+);
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
 shapes = (
 {
@@ -31512,6 +31524,12 @@ kernLeft = ft;
 kernRight = l;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (319,0);
+}
+);
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 shapes = (
 {
@@ -31525,6 +31543,12 @@ ref = l;
 width = 571;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (357,0);
+}
+);
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
 shapes = (
 {
