@@ -209,8 +209,8 @@ sub six by sixinferior;
 sub seven by seveninferior;
 sub eight by eightinferior;
 sub nine by nineinferior;
-sub minus by minusinferior;
 sub plus by plusinferior;
+sub minus by minusinferior;
 ";
 tag = subs;
 },
@@ -226,8 +226,8 @@ sub six by sixinferior;
 sub seven by seveninferior;
 sub eight by eightinferior;
 sub nine by nineinferior;
-sub minus by minusinferior;
 sub plus by plusinferior;
+sub minus by minusinferior;
 ";
 tag = sinf;
 },
@@ -243,8 +243,8 @@ sub six by sixsuperior;
 sub seven by sevensuperior;
 sub eight by eightsuperior;
 sub nine by ninesuperior;
-sub minus by minussuperior;
 sub plus by plussuperior;
+sub minus by minussuperior;
 ";
 tag = sups;
 },
@@ -384,7 +384,7 @@ code = "sub @numeros by @WhiteCircle;";
 labels = (
 {
 language = dflt;
-value = "Numero em Circulo Branco";
+value = "Circled numbers";
 }
 );
 tag = ss01;
@@ -394,7 +394,7 @@ code = "sub @numeros by @BlackCircle;";
 labels = (
 {
 language = dflt;
-value = "Numero em Circulo Preto";
+value = "Circled numbers filled";
 }
 );
 tag = ss02;
@@ -437,6 +437,7 @@ tag = liga;
 automatic = 1;
 code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;
 ";
+disabled = 1;
 tag = case;
 },
 {
