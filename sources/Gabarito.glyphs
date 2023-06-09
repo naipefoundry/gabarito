@@ -48682,15 +48682,19 @@ layers = (
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 shapes = (
 {
-ref = one.numr;
+alignment = -1;
+pos = (0,-90);
+ref = onesuperior;
 },
 {
+alignment = -1;
 pos = (232,0);
 ref = fraction;
 },
 {
-pos = (471,0);
-ref = two.dnom;
+alignment = -1;
+pos = (471,-373);
+ref = twosuperior;
 }
 );
 userData = {
@@ -48734,15 +48738,19 @@ width = 812;
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
 shapes = (
 {
-ref = one.numr;
+alignment = -1;
+pos = (0,-90);
+ref = onesuperior;
 },
 {
+alignment = -1;
 pos = (258,0);
 ref = fraction;
 },
 {
-pos = (551,0);
-ref = two.dnom;
+alignment = -1;
+pos = (551,-347);
+ref = twosuperior;
 }
 );
 userData = {
@@ -48793,15 +48801,19 @@ layers = (
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 shapes = (
 {
-ref = one.numr;
+alignment = -1;
+pos = (0,-90);
+ref = onesuperior;
 },
 {
+alignment = -1;
 pos = (232,0);
 ref = fraction;
 },
 {
-pos = (461,0);
-ref = four.dnom;
+alignment = -1;
+pos = (461,-373);
+ref = foursuperior;
 }
 );
 userData = {
@@ -48867,15 +48879,19 @@ width = 818;
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
 shapes = (
 {
-ref = one.numr;
+alignment = -1;
+pos = (0,-90);
+ref = onesuperior;
 },
 {
+alignment = -1;
 pos = (258,0);
 ref = fraction;
 },
 {
-pos = (541,0);
-ref = four.dnom;
+alignment = -1;
+pos = (541,-347);
+ref = foursuperior;
 }
 );
 userData = {
@@ -48948,15 +48964,19 @@ layers = (
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 shapes = (
 {
-ref = three.numr;
+alignment = -1;
+pos = (0,-90);
+ref = threesuperior;
 },
 {
+alignment = -1;
 pos = (325,0);
 ref = fraction;
 },
 {
-pos = (554,0);
-ref = four.dnom;
+alignment = -1;
+pos = (554,-373);
+ref = foursuperior;
 }
 );
 userData = {
@@ -49011,15 +49031,19 @@ width = 911;
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
 shapes = (
 {
-ref = three.numr;
+alignment = -1;
+pos = (0,-90);
+ref = threesuperior;
 },
 {
+alignment = -1;
 pos = (346,0);
 ref = fraction;
 },
 {
-pos = (629,0);
-ref = four.dnom;
+alignment = -1;
+pos = (629,-347);
+ref = foursuperior;
 }
 );
 userData = {
