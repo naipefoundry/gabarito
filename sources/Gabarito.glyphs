@@ -58139,7 +58139,7 @@ nodes = (
 );
 }
 );
-width = 190;
+width = 179;
 },
 {
 background = {
@@ -58171,7 +58171,7 @@ nodes = (
 );
 }
 );
-width = 250;
+width = 241;
 }
 );
 },
@@ -81269,7 +81269,7 @@ onesuperior = -80;
 ordfeminine = -80;
 ordmasculine = -120;
 paragraph = -15;
-periodcentered.loclCAT.case = -169;
+periodcentered.loclCAT.case = -179;
 question = -75;
 seven = -20;
 seveninferior = -30;
@@ -85186,7 +85186,7 @@ onesuperior = -35;
 ordfeminine = -80;
 ordmasculine = -90;
 paragraph = -25;
-periodcentered.loclCAT.case = -200;
+periodcentered.loclCAT.case = -220;
 question = -55;
 seven = -25;
 sevensuperior = -35;
