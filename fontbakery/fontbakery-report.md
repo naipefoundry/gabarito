@@ -2,20 +2,7 @@
 
 Fontbakery version: 0.8.13
 
-<details><summary><b>[7] Gabarito-Black.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> PPEM must be an integer on hinted fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/integer_ppem_if_hinted">com.google.fonts/check/integer_ppem_if_hinted</a>)</summary><div>
-
-
-* 🔥 **FAIL** This is a hinted font, so it must have bit 3 set on the flags of the head table, so that PPEM values will be rounded into an integer value.
-
-This can be accomplished by using the 'gftools fix-hinting' command.
-
-# create virtualenv
-python3 -m venv venv
-# activate virtualenv
-source venv/bin/activate
-# install gftools
-pip install git+https://www.github.com/googlefonts/tools [code: bad-flags]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+<details><summary><b>[6] Gabarito-Black.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
 * ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
@@ -37,13 +24,13 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 529:
-plusminus, plus
+plus, plusminus
 
 Width = 524:
-less, greater
+greater, less
 
 Width = 533:
-equal, notequal
+notequal, equal
 
 Width = 556:
 logicalnot
@@ -58,7 +45,7 @@ Width = 402:
 minus
 
 Width = 617:
-uni2289, uni2288, uni2286, approxequal, uni228B, uni2287, uni228A
+uni2289, uni228A, uni2286, uni2287, uni228B, approxequal, uni2288
 
 Width = 531:
 lessequal, greaterequal
@@ -307,20 +294,7 @@ lessequal, greaterequal
 * ⚠ **WARN** The following glyphs have jaggy segments:
 
 	* trademark (U+2122): L<<725.0,406.0>--<721.0,479.0>>/B<<721.0,479.0>-<719.0,464.0>-<716.5,452.0>> = 10.731001736924052 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[6] Gabarito-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> PPEM must be an integer on hinted fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/integer_ppem_if_hinted">com.google.fonts/check/integer_ppem_if_hinted</a>)</summary><div>
-
-
-* 🔥 **FAIL** This is a hinted font, so it must have bit 3 set on the flags of the head table, so that PPEM values will be rounded into an integer value.
-
-This can be accomplished by using the 'gftools fix-hinting' command.
-
-# create virtualenv
-python3 -m venv venv
-# activate virtualenv
-source venv/bin/activate
-# install gftools
-pip install git+https://www.github.com/googlefonts/tools [code: bad-flags]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[5] Gabarito-Medium.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
 * ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
@@ -338,10 +312,10 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 579:
-plusminus, plus
+plus, plusminus
 
 Width = 478:
-less, greater
+greater, less
 
 Width = 543:
 equal
@@ -371,7 +345,7 @@ Width = 517:
 lessequal, greaterequal
 
 Width = 667:
-uni2289, uni2288, uni2286, uni2287, uni228A
+uni2289, uni228A, uni2286, uni2287, uni2288
 
 Width = 647:
 uni228B
@@ -620,20 +594,7 @@ uni228B
 	* uni2206 (U+2206): L<<724.0,0.0>--<130.0,0.0>> -> L<<130.0,0.0>--<129.0,0.0>> 
 
 	* uni2285 (U+2285): L<<50.0,496.0>--<350.0,496.0>> -> L<<350.0,496.0>--<350.0,496.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[7] Gabarito-ExtraBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> PPEM must be an integer on hinted fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/integer_ppem_if_hinted">com.google.fonts/check/integer_ppem_if_hinted</a>)</summary><div>
-
-
-* 🔥 **FAIL** This is a hinted font, so it must have bit 3 set on the flags of the head table, so that PPEM values will be rounded into an integer value.
-
-This can be accomplished by using the 'gftools fix-hinting' command.
-
-# create virtualenv
-python3 -m venv venv
-# activate virtualenv
-source venv/bin/activate
-# install gftools
-pip install git+https://www.github.com/googlefonts/tools [code: bad-flags]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[6] Gabarito-ExtraBold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
 * ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
@@ -651,13 +612,13 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 544:
-plusminus, plus
+plus, plusminus
 
 Width = 511:
-less, greater
+greater, less
 
 Width = 536:
-equal, notequal
+notequal, equal
 
 Width = 560:
 logicalnot
@@ -681,7 +642,7 @@ Width = 527:
 lessequal, greaterequal
 
 Width = 632:
-uni2289, uni2288, uni2286, uni2287, uni228A
+uni2289, uni228A, uni2286, uni2287, uni2288
 
 Width = 626:
 uni228B
@@ -872,20 +833,7 @@ uni228B
 * ⚠ **WARN** The following glyphs have jaggy segments:
 
 	* trademark (U+2122): L<<715.0,420.0>--<711.0,496.0>>/B<<711.0,496.0>-<708.0,481.0>-<705.0,467.5>> = 14.322719978203523 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[7] Gabarito-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> PPEM must be an integer on hinted fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/integer_ppem_if_hinted">com.google.fonts/check/integer_ppem_if_hinted</a>)</summary><div>
-
-
-* 🔥 **FAIL** This is a hinted font, so it must have bit 3 set on the flags of the head table, so that PPEM values will be rounded into an integer value.
-
-This can be accomplished by using the 'gftools fix-hinting' command.
-
-# create virtualenv
-python3 -m venv venv
-# activate virtualenv
-source venv/bin/activate
-# install gftools
-pip install git+https://www.github.com/googlefonts/tools [code: bad-flags]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[6] Gabarito-Bold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
 * ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
@@ -903,13 +851,13 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 556:
-plusminus, plus
+plus, plusminus
 
 Width = 499:
-less, greater
+greater, less
 
 Width = 538:
-equal, notequal
+notequal, equal
 
 Width = 562:
 logicalnot
@@ -933,7 +881,7 @@ Width = 523:
 lessequal, greaterequal
 
 Width = 644:
-uni2289, uni2288, uni2286, uni2287, uni228A
+uni2289, uni228A, uni2286, uni2287, uni2288
 
 Width = 633:
 uni228B
@@ -1104,20 +1052,7 @@ uni228B
 * ⚠ **WARN** The following glyphs have jaggy segments:
 
 	* trademark (U+2122): L<<707.0,431.0>--<702.0,510.0>>/B<<702.0,510.0>-<699.0,494.0>-<695.5,479.5>> = 14.24113998027248 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[6] Gabarito-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> PPEM must be an integer on hinted fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/integer_ppem_if_hinted">com.google.fonts/check/integer_ppem_if_hinted</a>)</summary><div>
-
-
-* 🔥 **FAIL** This is a hinted font, so it must have bit 3 set on the flags of the head table, so that PPEM values will be rounded into an integer value.
-
-This can be accomplished by using the 'gftools fix-hinting' command.
-
-# create virtualenv
-python3 -m venv venv
-# activate virtualenv
-source venv/bin/activate
-# install gftools
-pip install git+https://www.github.com/googlefonts/tools [code: bad-flags]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[5] Gabarito-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
 * ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
@@ -1135,10 +1070,10 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 591:
-plusminus, plus
+plus, plusminus
 
 Width = 467:
-less, greater
+greater, less
 
 Width = 545:
 equal
@@ -1165,7 +1100,7 @@ Width = 513:
 lessequal, greaterequal
 
 Width = 679:
-uni2289, uni2288, uni2286, uni2287, uni228A
+uni2289, uni228A, uni2286, uni2287, uni2288
 
 Width = 654:
 uni228B
@@ -1462,20 +1397,7 @@ uni228B
 	* uni2284 (U+2284): L<<619.0,10.0>--<308.0,10.0>> -> L<<308.0,10.0>--<303.0,10.0>> 
 
 	* uni2285 (U+2285): L<<51.0,498.0>--<362.0,498.0>> -> L<<362.0,498.0>--<367.0,498.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[6] Gabarito-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> PPEM must be an integer on hinted fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/integer_ppem_if_hinted">com.google.fonts/check/integer_ppem_if_hinted</a>)</summary><div>
-
-
-* 🔥 **FAIL** This is a hinted font, so it must have bit 3 set on the flags of the head table, so that PPEM values will be rounded into an integer value.
-
-This can be accomplished by using the 'gftools fix-hinting' command.
-
-# create virtualenv
-python3 -m venv venv
-# activate virtualenv
-source venv/bin/activate
-# install gftools
-pip install git+https://www.github.com/googlefonts/tools [code: bad-flags]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[5] Gabarito-SemiBold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
 * ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
@@ -1493,13 +1415,13 @@ The following glyphs do not have the recommended number of contours:
 The following math glyphs have a different width, though:
 
 Width = 567:
-plusminus, plus
+plus, plusminus
 
 Width = 489:
-less, greater
+greater, less
 
 Width = 540:
-equal, notequal
+notequal, equal
 
 Width = 565:
 logicalnot
@@ -1523,7 +1445,7 @@ Width = 520:
 lessequal, greaterequal
 
 Width = 655:
-uni2289, uni2288, uni2286, uni2287, uni228A
+uni2289, uni228A, uni2286, uni2287, uni2288
 
 Width = 640:
 uni228B
@@ -1740,8 +1662,8 @@ uni228B
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 6 | 33 | 716 | 49 | 587 | 0 |
-| 0% | 0% | 2% | 51% | 4% | 42% | 0% |
+| 0 | 0 | 33 | 716 | 49 | 593 | 0 |
+| 0% | 0% | 2% | 51% | 4% | 43% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
