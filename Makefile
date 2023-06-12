@@ -18,8 +18,11 @@ build: build.stamp
 
 venv: venv/touchfile
 
+autohint: build.stamp
+	. venv/bin/activate; python3 scripts/autohint-family.py
+
 build.stamp: venv .init.stamp sources/config.yaml $(SOURCES)
-	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config.yaml && touch build.stamp
+	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config.yaml && python3 scripts/autohint-family.py && touch build.stamp
 
 .init.stamp: venv
 	. venv/bin/activate; python3 scripts/first-run.py
