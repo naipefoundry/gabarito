@@ -6,6 +6,7 @@
 import os
 from ttfautohint import ttfautohint
 from ttfautohint.options import parse_args as ttfautohint_parse_args
+from fontTools.ttLib import TTFont
 
 
 def get_control_file(file_path):
@@ -53,7 +54,13 @@ def autohint_font(infile, outfile, parameters, control=None, reference=None):
         *parameters
     ])
 
-    return ttfautohint(**args)
+    ttfautohint(**args)
+
+    # Improve the appearance of a hinted font on Win platforms by enabling
+    # the head table's flag 3.
+    ttFont = TTFont(outfile)
+    ttFont["head"].flags |= 1 << 3
+    ttFont.save(outfile)
 
 
 def main(args=None):
