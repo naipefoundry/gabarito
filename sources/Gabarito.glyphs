@@ -138,7 +138,6 @@ feature ss01;
 feature ss02;
 feature pnum;
 feature tnum;
-feature case;
 ";
 tag = aalt;
 },
