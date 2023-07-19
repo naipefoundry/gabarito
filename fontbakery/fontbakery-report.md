@@ -23,7 +23,7 @@ Width = 567:
 plus, plusminus
 
 Width = 489:
-less, greater
+greater, less
 
 Width = 540:
 equal, notequal
@@ -50,7 +50,7 @@ Width = 520:
 greaterequal, lessequal
 
 Width = 655:
-uni2287, uni2289, uni2286, uni228A, uni2288
+uni2289, uni228A, uni2286, uni2287, uni2288
 
 Width = 640:
 uni228B
@@ -282,7 +282,7 @@ Width = 579:
 plus, plusminus
 
 Width = 478:
-less, greater
+greater, less
 
 Width = 543:
 equal
@@ -312,7 +312,7 @@ Width = 517:
 greaterequal, lessequal
 
 Width = 667:
-uni2287, uni2289, uni2286, uni228A, uni2288
+uni2289, uni228A, uni2286, uni2287, uni2288
 
 Width = 647:
 uni228B
@@ -582,7 +582,7 @@ Width = 556:
 plus, plusminus
 
 Width = 499:
-less, greater
+greater, less
 
 Width = 538:
 equal, notequal
@@ -609,7 +609,7 @@ Width = 523:
 greaterequal, lessequal
 
 Width = 644:
-uni2287, uni2289, uni2286, uni228A, uni2288
+uni2289, uni228A, uni2286, uni2287, uni2288
 
 Width = 633:
 uni228B
@@ -801,7 +801,7 @@ Width = 591:
 plus, plusminus
 
 Width = 467:
-less, greater
+greater, less
 
 Width = 545:
 equal
@@ -828,7 +828,7 @@ Width = 513:
 greaterequal, lessequal
 
 Width = 679:
-uni2287, uni2289, uni2286, uni228A, uni2288
+uni2289, uni228A, uni2286, uni2287, uni2288
 
 Width = 654:
 uni228B
@@ -1150,7 +1150,7 @@ Width = 529:
 plus, plusminus
 
 Width = 524:
-less, greater
+greater, less
 
 Width = 533:
 equal, notequal
@@ -1168,7 +1168,7 @@ Width = 402:
 minus
 
 Width = 617:
-uni2287, approxequal, uni228B, uni2289, uni2286, uni228A, uni2288
+uni2289, uni228A, uni2286, uni228B, uni2287, approxequal, uni2288
 
 Width = 531:
 greaterequal, lessequal
@@ -1438,7 +1438,7 @@ Width = 544:
 plus, plusminus
 
 Width = 511:
-less, greater
+greater, less
 
 Width = 536:
 equal, notequal
@@ -1465,7 +1465,7 @@ Width = 527:
 greaterequal, lessequal
 
 Width = 632:
-uni2287, uni2289, uni2286, uni228A, uni2288
+uni2289, uni228A, uni2286, uni2287, uni2288
 
 Width = 626:
 uni228B
