@@ -1,7 +1,1 @@
-To do list:
-
-— Fill out `DESCRIPTION.en_us.html` with a description about your font.
-
-— Once you are happy with your font, add promotional assets in the documentation directory. Make it different from the pic you use in this README. You can get inspired by existing tweet @googlefonts like: https://twitter.com/googlefonts/status/1415562928657416192.
-
 — Change the date of the Changelog

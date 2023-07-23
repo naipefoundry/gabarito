@@ -12,15 +12,22 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fharbortype%2Fgabarito%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fharbortype%2Fgabarito%2Fgh-pages%2Fbadges%2FUniversal.json
 
-**Gabarito** is a light-hearted geometric sans typeface with 6 weights ranging from Regular to Black originally designed for an [online learning platform in Brazil](https://descomplica.com.br/). 
+![Sample Image](documentation/image1.jpg)
 
-Named after the Brazilian Portuguese work for an answer sheet, Gabarito was made to help young people learn and overcome the university entry exams known as "vestibular", and it did that by packing lots of high-school level symbols and figures into a very friendly voice that was equal parts functional and engaging, in keeping with the ground breaking goals of Descomplica whose aim was always to demistify and democratize learning in Brazil.
+**Gabarito** is a light-hearted geometric sans typeface with 6 weights ranging from Regular to Black originally designed for an online learning platform in Brazil. 
 
-Beyond the Google Fonts Latin Character set which supports over 200 latin alphabet languages, Gabarito also includes things like Logic and Set Theory symbols, scientific inferiors and superiors, extensive math operators, roman numerals and anything else a high-schooler may need for their homework.
+Named after the Brazilian Portuguese work for an answer sheet, Gabarito was made to help young people learn and overcome the university entry exams known as "vestibular", and it did that by packing lots of high-school level symbols and figures into a very friendly voice that was equal parts functional and engaging.
+
+Beyond the Google Fonts Latin Core Character set which supports over several latin alphabet languages, Gabarito also includes things like Logic and Set Theory symbols, scientific inferiors and superiors, extensive math operators, roman numerals and anything else a high-schooler may need for their homework.
 
 The initial design was comissioned in 2017, started by Leandro Assis and Álvaro Franca, it then got developed and improved further in 2020 by Álvaro Franca and Felipe Casaprima, and finally in 2023 it got a little bit of a makeover in order for it's debut in the commons, that last part with a lot of help from Henrique Beier of Harbour Type.
 
-![Sample Image](documentation/image1.png)
+
+![Sample Image](documentation/image2.jpg)
+![Sample Image](documentation/image3.jpg)
+![Sample Image](documentation/image4.jpg)
+![Sample Image](documentation/image5.jpg)
+![Sample Image](documentation/image6.jpg)
 
 ## About
 
