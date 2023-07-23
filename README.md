@@ -20,7 +20,7 @@ Named after the Brazilian Portuguese work for an answer sheet, Gabarito was made
 
 Beyond the Google Fonts Latin Core Character set which supports over several latin alphabet languages, Gabarito also includes things like Logic and Set Theory symbols, scientific inferiors and superiors, extensive math operators, roman numerals and anything else a high-schooler may need for their homework.
 
-The initial design was comissioned in 2017, started by Leandro Assis and Álvaro Franca, it then got developed and improved further in 2020 by Álvaro Franca and Felipe Casaprima, and finally in 2023 it got a little bit of a makeover in order for it's debut in the commons, that last part with a lot of help from Henrique Beier of Harbour Type.
+The initial design was comissioned in 2017, started by Leandro Assis and Álvaro Franca, it then got developed and improved further in 2020 by Álvaro Franca and Felipe Casaprima, and finally in 2023 it got a little bit of a makeover in order for it's debut in the commons, that last part with a lot of help from Henrique Beier of Harbor Type.
 
 
 ![Sample Image](documentation/image2.jpg)
@@ -33,9 +33,9 @@ The initial design was comissioned in 2017, started by Leandro Assis and Álvaro
 
 [**Naipe Foundry**](naipe.xyz/) is the type design, lettering & font production practice of Álvaro Franca & Felipe Casaprima. Out of Rio de Janeiro 🇧🇷, but based in Barcelona 🇪🇸 Perth 🇦🇺 and everywhere in between 🌎 Naipe is passionate about making language visible, creating ways for a text to achieve a tone of voice.
 
-[**Harbour Type**](https://www.harbortype.com/) is an independent type foundry run by Henrique Beier from Porto Alegre, Brazil. 
+[**Harbor Type**](https://www.harbortype.com/) is an independent type foundry run by Henrique Beier from Porto Alegre, Brazil.
 
-**Naipe** designed Gabarito in 2017, and **Harbour Type** helped them fix it to bring it into the commons.
+**Naipe** designed Gabarito in 2017, and **Harbor Type** helped them fix it to bring it into the commons.
 
 ## Building
 
