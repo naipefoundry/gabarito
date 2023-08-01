@@ -1,18 +1,18 @@
 # Gabarito
 
-[![][Fontbakery]](https://harbortype.github.io/gabarito/fontbakery/fontbakery-report.html)
-[![][Universal]](https://harbortype.github.io/gabarito/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://harbortype.github.io/gabarito/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://harbortype.github.io/gabarito/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://harbortype.github.io/gabarito/fontbakery/fontbakery-report.html)
+[![][Fontbakery]](https://naipefoundry.github.io/gabarito/fontbakery/fontbakery-report.html)
+[![][Universal]](https://naipefoundry.github.io/gabarito/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://naipefoundry.github.io/gabarito/fontbakery/fontbakery-report.html)
+[![][Outline Correctness]](https://naipefoundry.github.io/gabarito/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://naipefoundry.github.io/gabarito/fontbakery/fontbakery-report.html)
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fharbortype%2Fgabarito%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fharbortype%2Fgabarito%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fharbortype%2Fgabarito%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fharbortype%2Fgabarito%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fharbortype%2Fgabarito%2Fgh-pages%2Fbadges%2FUniversal.json
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnaipefoundry%2Fgabarito%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnaipefoundry%2Fgabarito%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnaipefoundry%2Fgabarito%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnaipefoundry%2Fgabarito%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnaipefoundry%2Fgabarito%2Fgh-pages%2Fbadges%2FUniversal.json
 
-![Sample Image](documentation/image1.jpg)
+![Sample Image](documentation/Image1.jpg)
 
 **Gabarito** is a light-hearted geometric sans typeface with 6 weights ranging from Regular to Black originally designed for an online learning platform in Brazil. 
 
@@ -23,11 +23,11 @@ Beyond the Google Fonts Latin Core Character set which supports over several lat
 The initial design was comissioned in 2017, started by Leandro Assis and Álvaro Franca, it then got developed and improved further in 2020 by Álvaro Franca and Felipe Casaprima, and finally in 2023 it got a little bit of a makeover in order for it's debut in the commons, that last part with a lot of help from Henrique Beier of Harbor Type.
 
 
-![Sample Image](documentation/image2.jpg)
-![Sample Image](documentation/image3.jpg)
-![Sample Image](documentation/image4.jpg)
-![Sample Image](documentation/image5.jpg)
-![Sample Image](documentation/image6.jpg)
+![Sample Image](documentation/Image2.jpg)
+![Sample Image](documentation/Image3.jpg)
+![Sample Image](documentation/Image4.jpg)
+![Sample Image](documentation/Image5.jpg)
+![Sample Image](documentation/Image6.jpg)
 
 ## About
 
