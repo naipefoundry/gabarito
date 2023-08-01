@@ -2,7 +2,21 @@
 
 Fontbakery version: 0.8.13
 
-<details><summary><b>[5] Gabarito-SemiBold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+<details><summary><b>[6] Gabarito-SemiBold.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
 * ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
@@ -26,7 +40,7 @@ Width = 489:
 less, greater
 
 Width = 540:
-notequal, equal
+equal, notequal
 
 Width = 565:
 logicalnot
@@ -50,7 +64,7 @@ Width = 520:
 greaterequal, lessequal
 
 Width = 655:
-uni2286, uni2288, uni2289, uni2287, uni228A
+uni2287, uni2289, uni2286, uni228A, uni2288
 
 Width = 640:
 uni228B
@@ -261,7 +275,21 @@ uni228B
 	* uni216F (U+216F): L<<730.0,125.0>--<692.0,355.0>> -> L<<692.0,355.0>--<674.0,455.0>> 
 
 	* uni2206 (U+2206): L<<745.0,0.0>--<153.0,0.0>> -> L<<153.0,0.0>--<152.0,0.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[5] Gabarito-Medium.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[6] Gabarito-Medium.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
 * ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
@@ -312,7 +340,7 @@ Width = 517:
 greaterequal, lessequal
 
 Width = 667:
-uni2286, uni2288, uni2289, uni2287, uni228A
+uni2287, uni2289, uni2286, uni228A, uni2288
 
 Width = 647:
 uni228B
@@ -561,7 +589,21 @@ uni228B
 	* uni2206 (U+2206): L<<724.0,0.0>--<130.0,0.0>> -> L<<130.0,0.0>--<129.0,0.0>> 
 
 	* uni2285 (U+2285): L<<50.0,496.0>--<350.0,496.0>> -> L<<350.0,496.0>--<350.0,496.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[6] Gabarito-Bold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[7] Gabarito-Bold.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
 * ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
@@ -585,7 +627,7 @@ Width = 499:
 less, greater
 
 Width = 538:
-notequal, equal
+equal, notequal
 
 Width = 562:
 logicalnot
@@ -609,7 +651,7 @@ Width = 523:
 greaterequal, lessequal
 
 Width = 644:
-uni2286, uni2288, uni2289, uni2287, uni228A
+uni2287, uni2289, uni2286, uni228A, uni2288
 
 Width = 633:
 uni228B
@@ -780,7 +822,21 @@ uni228B
 * ⚠ **WARN** The following glyphs have jaggy segments:
 
 	* trademark (U+2122): L<<707.0,431.0>--<702.0,510.0>>/B<<702.0,510.0>-<699.0,494.0>-<695.5,479.5>> = 14.24113998027248 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[5] Gabarito-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[6] Gabarito-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
 * ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
@@ -819,7 +875,7 @@ Width = 535:
 minus
 
 Width = 559:
-congruent, approxequal
+approxequal, congruent
 
 Width = 544:
 notequal
@@ -828,7 +884,7 @@ Width = 513:
 greaterequal, lessequal
 
 Width = 679:
-uni2286, uni2288, uni2289, uni2287, uni228A
+uni2287, uni2289, uni2286, uni228A, uni2288
 
 Width = 654:
 uni228B
@@ -1125,7 +1181,21 @@ uni228B
 	* uni2284 (U+2284): L<<619.0,10.0>--<308.0,10.0>> -> L<<308.0,10.0>--<303.0,10.0>> 
 
 	* uni2285 (U+2285): L<<51.0,498.0>--<362.0,498.0>> -> L<<362.0,498.0>--<367.0,498.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[6] Gabarito-Black.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[7] Gabarito-Black.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
 * ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
@@ -1153,7 +1223,7 @@ Width = 524:
 less, greater
 
 Width = 533:
-notequal, equal
+equal, notequal
 
 Width = 556:
 logicalnot
@@ -1168,7 +1238,7 @@ Width = 402:
 minus
 
 Width = 617:
-uni2286, uni2288, uni228B, uni2289, uni2287, uni228A, approxequal
+approxequal, uni2287, uni2289, uni228B, uni2286, uni228A, uni2288
 
 Width = 531:
 greaterequal, lessequal
@@ -1417,7 +1487,21 @@ greaterequal, lessequal
 * ⚠ **WARN** The following glyphs have jaggy segments:
 
 	* trademark (U+2122): L<<725.0,406.0>--<721.0,479.0>>/B<<721.0,479.0>-<719.0,464.0>-<716.5,452.0>> = 10.731001736924052 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[6] Gabarito-ExtraBold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[7] Gabarito-ExtraBold.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
 * ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
@@ -1441,7 +1525,7 @@ Width = 511:
 less, greater
 
 Width = 536:
-notequal, equal
+equal, notequal
 
 Width = 560:
 logicalnot
@@ -1465,7 +1549,7 @@ Width = 527:
 greaterequal, lessequal
 
 Width = 632:
-uni2286, uni2288, uni2289, uni2287, uni228A
+uni2287, uni2289, uni2286, uni228A, uni2288
 
 Width = 626:
 uni228B
@@ -1662,8 +1746,8 @@ uni228B
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 0 | 33 | 716 | 49 | 593 | 0 |
-| 0% | 0% | 2% | 51% | 4% | 43% | 0% |
+| 6 | 0 | 33 | 716 | 49 | 587 | 0 |
+| 0% | 0% | 2% | 51% | 4% | 42% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
