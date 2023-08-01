@@ -51,8 +51,8 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 ## Changelog
 
-**XX August 2023. Version 1.0**
-— Inital commit of Gabarito
+**01 August 2023. Version 1.0**
+— Inital release of Gabarito
 
 ## License
 
