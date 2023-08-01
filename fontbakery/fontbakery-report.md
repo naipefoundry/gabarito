@@ -37,10 +37,10 @@ Width = 567:
 plusminus, plus
 
 Width = 489:
-greater, less
+less, greater
 
 Width = 540:
-equal, notequal
+notequal, equal
 
 Width = 565:
 logicalnot
@@ -61,10 +61,10 @@ Width = 581:
 approxequal
 
 Width = 520:
-lessequal, greaterequal
+greaterequal, lessequal
 
 Width = 655:
-uni2286, uni2289, uni2287, uni228A, uni2288
+uni2286, uni2287, uni228A, uni2289, uni2288
 
 Width = 640:
 uni228B
@@ -310,7 +310,7 @@ Width = 579:
 plusminus, plus
 
 Width = 478:
-greater, less
+less, greater
 
 Width = 543:
 equal
@@ -337,10 +337,10 @@ Width = 542:
 notequal
 
 Width = 517:
-lessequal, greaterequal
+greaterequal, lessequal
 
 Width = 667:
-uni2286, uni2289, uni2287, uni228A, uni2288
+uni2286, uni2287, uni228A, uni2289, uni2288
 
 Width = 647:
 uni228B
@@ -624,10 +624,10 @@ Width = 556:
 plusminus, plus
 
 Width = 499:
-greater, less
+less, greater
 
 Width = 538:
-equal, notequal
+notequal, equal
 
 Width = 562:
 logicalnot
@@ -648,10 +648,10 @@ Width = 592:
 approxequal
 
 Width = 523:
-lessequal, greaterequal
+greaterequal, lessequal
 
 Width = 644:
-uni2286, uni2289, uni2287, uni228A, uni2288
+uni2286, uni2287, uni228A, uni2289, uni2288
 
 Width = 633:
 uni228B
@@ -857,7 +857,7 @@ Width = 591:
 plusminus, plus
 
 Width = 467:
-greater, less
+less, greater
 
 Width = 545:
 equal
@@ -875,16 +875,16 @@ Width = 535:
 minus
 
 Width = 559:
-approxequal, congruent
+congruent, approxequal
 
 Width = 544:
 notequal
 
 Width = 513:
-lessequal, greaterequal
+greaterequal, lessequal
 
 Width = 679:
-uni2286, uni2289, uni2287, uni228A, uni2288
+uni2286, uni2287, uni228A, uni2289, uni2288
 
 Width = 654:
 uni228B
@@ -1220,10 +1220,10 @@ Width = 529:
 plusminus, plus
 
 Width = 524:
-greater, less
+less, greater
 
 Width = 533:
-equal, notequal
+notequal, equal
 
 Width = 556:
 logicalnot
@@ -1238,10 +1238,10 @@ Width = 402:
 minus
 
 Width = 617:
-uni2286, approxequal, uni2289, uni2287, uni228A, uni2288, uni228B
+uni2286, uni2287, uni228A, uni228B, approxequal, uni2289, uni2288
 
 Width = 531:
-lessequal, greaterequal
+greaterequal, lessequal
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss">com.google.fonts/check/outline_alignment_miss</a>)</summary><div>
 
@@ -1522,10 +1522,10 @@ Width = 544:
 plusminus, plus
 
 Width = 511:
-greater, less
+less, greater
 
 Width = 536:
-equal, notequal
+notequal, equal
 
 Width = 560:
 logicalnot
@@ -1546,10 +1546,10 @@ Width = 603:
 approxequal
 
 Width = 527:
-lessequal, greaterequal
+greaterequal, lessequal
 
 Width = 632:
-uni2286, uni2289, uni2287, uni228A, uni2288
+uni2286, uni2287, uni228A, uni2289, uni2288
 
 Width = 626:
 uni228B
