@@ -41,10 +41,6 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
-name = TTFOvershootSuppressionBelowPPM;
-value = 50;
-},
-{
 name = "Write lastChange";
 value = 0;
 },
@@ -101,7 +97,7 @@ size = "-15";
 );
 }
 );
-date = "2023-06-12 15:00:01 +0000";
+date = "2023-08-01 15:00:00 +0000";
 familyName = Gabarito;
 featurePrefixes = (
 {
@@ -87859,7 +87855,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2023 The Gabarito Project Authors (https://github.com/harbortype/gabarito)";
+value = "Copyright 2023 The Gabarito Project Authors (https://github.com/naipefoundry/gabarito)";
 }
 );
 },
@@ -87878,7 +87874,7 @@ value = "https://scripts.sil.org/OFL";
 },
 {
 key = versionString;
-value = "Version 2.000";
+value = "Version 1.000";
 }
 );
 stems = (
@@ -88922,6 +88918,6 @@ zerosuperior = uni2070;
 };
 UFOFormat = 2;
 };
-versionMajor = 2;
+versionMajor = 1;
 versionMinor = 0;
 }
