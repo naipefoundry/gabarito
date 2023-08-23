@@ -23,10 +23,10 @@ Width = 567:
 plusminus, plus
 
 Width = 489:
-less, greater
+greater, less
 
 Width = 540:
-notequal, equal
+equal, notequal
 
 Width = 565:
 logicalnot
@@ -50,7 +50,7 @@ Width = 520:
 lessequal, greaterequal
 
 Width = 655:
-uni2289, uni2287, uni2288, uni228A, uni2286
+uni2289, uni228A, uni2288, uni2287, uni2286
 
 Width = 640:
 uni228B
@@ -282,10 +282,10 @@ Width = 544:
 plusminus, plus
 
 Width = 511:
-less, greater
+greater, less
 
 Width = 536:
-notequal, equal
+equal, notequal
 
 Width = 560:
 logicalnot
@@ -309,7 +309,7 @@ Width = 527:
 lessequal, greaterequal
 
 Width = 632:
-uni2289, uni2287, uni2288, uni228A, uni2286
+uni2289, uni228A, uni2288, uni2287, uni2286
 
 Width = 626:
 uni228B
@@ -521,7 +521,7 @@ Width = 579:
 plusminus, plus
 
 Width = 478:
-less, greater
+greater, less
 
 Width = 543:
 equal
@@ -551,7 +551,7 @@ Width = 517:
 lessequal, greaterequal
 
 Width = 667:
-uni2289, uni2287, uni2288, uni228A, uni2286
+uni2289, uni228A, uni2288, uni2287, uni2286
 
 Width = 647:
 uni228B
@@ -821,10 +821,10 @@ Width = 556:
 plusminus, plus
 
 Width = 499:
-less, greater
+greater, less
 
 Width = 538:
-notequal, equal
+equal, notequal
 
 Width = 562:
 logicalnot
@@ -848,7 +848,7 @@ Width = 523:
 lessequal, greaterequal
 
 Width = 644:
-uni2289, uni2287, uni2288, uni228A, uni2286
+uni2289, uni228A, uni2288, uni2287, uni2286
 
 Width = 633:
 uni228B
@@ -1044,10 +1044,10 @@ Width = 529:
 plusminus, plus
 
 Width = 524:
-less, greater
+greater, less
 
 Width = 533:
-notequal, equal
+equal, notequal
 
 Width = 556:
 logicalnot
@@ -1062,7 +1062,7 @@ Width = 402:
 minus
 
 Width = 617:
-uni2289, uni228B, uni2287, approxequal, uni2288, uni228A, uni2286
+uni228B, uni2289, uni228A, uni2288, uni2287, uni2286, approxequal
 
 Width = 531:
 lessequal, greaterequal
@@ -1332,7 +1332,7 @@ Width = 591:
 plusminus, plus
 
 Width = 467:
-less, greater
+greater, less
 
 Width = 545:
 equal
@@ -1359,7 +1359,7 @@ Width = 513:
 lessequal, greaterequal
 
 Width = 679:
-uni2289, uni2287, uni2288, uni228A, uni2286
+uni2289, uni228A, uni2288, uni2287, uni2286
 
 Width = 654:
 uni228B
