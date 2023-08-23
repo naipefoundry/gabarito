@@ -33,7 +33,7 @@ The initial design was comissioned in 2017, started by Leandro Assis and Álvaro
 
 [**Naipe Foundry**](naipe.xyz/) is the type design, lettering & font production practice of Álvaro Franca & Felipe Casaprima. Out of Rio de Janeiro 🇧🇷, but based in Barcelona 🇪🇸 Perth 🇦🇺 and everywhere in between 🌎 Naipe is passionate about making language visible, creating ways for a text to achieve a tone of voice.
 
-[**Leandro Assis**](https://lebassis.com/) is a brazilian lettering artist and art director based in Rio. He is known for super bold letterings, colorful palettes and playful illustrations, drawing the attention for global brands and agencies to digital projects and marketing campaigns for the most different scenes. Above all, he is interested in opportunities where I can use design as a tool to talk about things he cares about, such as black culture, gender topics and LGBTQ+ rights.
+[**Leandro Assis**](https://lebassis.com/) is a brazilian lettering artist and art director based in Rio. He is known for super bold letterings, colorful palettes and playful illustrations, drawing the attention for global brands and agencies to digital projects and marketing campaigns for the most different scenes. Above all, he is interested in opportunities where he can use design as a tool to talk about things he cares about, such as black culture, gender topics and LGBTQ+ rights.
 
 
 [**Harbor Type**](https://www.harbortype.com/) is an independent type foundry run by Henrique Beier from Porto Alegre, Brazil.
