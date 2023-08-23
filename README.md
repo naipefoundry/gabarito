@@ -38,7 +38,7 @@ The initial design was comissioned in 2017, started by Leandro Assis and Álvaro
 
 [**Harbor Type**](https://www.harbortype.com/) is an independent type foundry run by Henrique Beier from Porto Alegre, Brazil.
 
-**Naipe** designed Gabarito in 2017, and **Harbor Type** helped them fix it to bring it into the commons.
+**Naipe** and **Leandro Assis** designed Gabarito in 2017, and **Harbor Type** helped them fix it to bring it into the commons.
 
 ## Building
 
