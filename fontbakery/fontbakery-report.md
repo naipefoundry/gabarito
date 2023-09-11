@@ -16,41 +16,17 @@ The following glyphs do not have the recommended number of contours:
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
 
-* ⚠ **WARN** The most common width is 646 among a set of 6 math glyphs.
+* ⚠ **WARN** The most common width is 670 among a set of 13 math glyphs.
 The following math glyphs have a different width, though:
 
-Width = 567:
-plusminus, plus
-
-Width = 489:
-greater, less
-
-Width = 540:
-equal, notequal
-
-Width = 565:
-logicalnot
-
-Width = 543:
-multiply
-
-Width = 571:
-divide
-
-Width = 484:
-minus
+Width = 646:
+uni2283, uni2285, uni2284, uni2282, uni2208, uni2209
 
 Width = 578:
 congruent
 
-Width = 581:
-approxequal
-
-Width = 520:
-lessequal, greaterequal
-
 Width = 655:
-uni2289, uni228A, uni2288, uni2287, uni2286
+uni2286, uni228A, uni2287, uni2288, uni2289
 
 Width = 640:
 uni228B
@@ -232,10 +208,6 @@ uni228B
 
 	* trademark (U+2122) contains a short segment L<<588.0,482.0>--<590.0,482.0>>
 
-	* uni2206 (U+2206) contains a short segment L<<153.0,0.0>--<152.0,0.0>>
-
-	* uni2206 (U+2206) contains a short segment L<<152.0,0.0>--<152.0,0.0>>
-
 	* lozenge (U+25CA) contains a short segment L<<34.0,335.0>--<34.0,346.0>> 
 
 	* lozenge (U+25CA) contains a short segment L<<567.0,346.0>--<567.0,335.0>> [code: found-short-segments]
@@ -256,11 +228,9 @@ uni228B
 
 	* trademark (U+2122): L<<718.0,300.0>--<699.0,442.0>> -> L<<699.0,442.0>--<694.0,522.0>>
 
-	* uni216F (U+216F): L<<278.0,454.0>--<260.0,355.0>> -> L<<260.0,355.0>--<221.0,125.0>>
+	* uni216F (U+216F): L<<278.0,454.0>--<260.0,355.0>> -> L<<260.0,355.0>--<221.0,125.0>> 
 
-	* uni216F (U+216F): L<<730.0,125.0>--<692.0,355.0>> -> L<<692.0,355.0>--<674.0,455.0>> 
-
-	* uni2206 (U+2206): L<<745.0,0.0>--<153.0,0.0>> -> L<<153.0,0.0>--<152.0,0.0>> [code: found-colinear-vectors]
+	* uni216F (U+216F): L<<730.0,125.0>--<692.0,355.0>> -> L<<692.0,355.0>--<674.0,455.0>> [code: found-colinear-vectors]
 </div></details><br></div></details><details><summary><b>[6] Gabarito-ExtraBold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
@@ -275,41 +245,17 @@ The following glyphs do not have the recommended number of contours:
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
 
-* ⚠ **WARN** The most common width is 623 among a set of 6 math glyphs.
+* ⚠ **WARN** The most common width is 670 among a set of 13 math glyphs.
 The following math glyphs have a different width, though:
 
-Width = 544:
-plusminus, plus
-
-Width = 511:
-greater, less
-
-Width = 536:
-equal, notequal
-
-Width = 560:
-logicalnot
-
-Width = 558:
-multiply
-
-Width = 567:
-divide
-
-Width = 433:
-minus
+Width = 623:
+uni2283, uni2285, uni2284, uni2282, uni2208, uni2209
 
 Width = 597:
 congruent
 
-Width = 603:
-approxequal
-
-Width = 527:
-lessequal, greaterequal
-
 Width = 632:
-uni2289, uni228A, uni2288, uni2287, uni2286
+uni2286, uni228A, uni2287, uni2288, uni2289
 
 Width = 626:
 uni228B
@@ -353,9 +299,9 @@ uni228B
 
 	* ordfeminine (U+00AA): X=113.0,Y=680.5 (should be at cap-height 681?)
 
-	* plusminus (U+00B1): X=26.0,Y=-1.0 (should be at baseline 0?)
+	* plusminus (U+00B1): X=89.0,Y=-1.0 (should be at baseline 0?)
 
-	* plusminus (U+00B1): X=518.0,Y=-1.0 (should be at baseline 0?)
+	* plusminus (U+00B1): X=582.0,Y=-1.0 (should be at baseline 0?)
 
 	* agrave (U+00E0): X=272.0,Y=-1.5 (should be at baseline 0?)
 
@@ -425,8 +371,6 @@ uni228B
 
 	* uni2088 (U+2088): X=346.0,Y=1.0 (should be at baseline 0?)
 
-	* uni2206 (U+2206): X=200.0,Y=-1.0 (should be at baseline 0?)
-
 	* logicalor (U+2228): X=272.0,Y=-2.0 (should be at baseline 0?)
 
 	* logicalor (U+2228): X=379.0,Y=-2.0 (should be at baseline 0?)
@@ -464,10 +408,6 @@ uni228B
 	* Euro (U+20AC) contains a short segment B<<249.0,341.0>-<248.0,333.0>-<248.0,325.0>>
 
 	* trademark (U+2122) contains a short segment L<<608.0,504.0>--<610.0,504.0>>
-
-	* uni2206 (U+2206) contains a short segment L<<200.0,0.0>--<200.0,-1.0>>
-
-	* uni2206 (U+2206) contains a short segment L<<200.0,-1.0>--<200.0,0.0>>
 
 	* lozenge (U+25CA) contains a short segment L<<20.0,334.0>--<20.0,345.0>> 
 
@@ -514,44 +454,17 @@ The following glyphs do not have the recommended number of contours:
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
 
-* ⚠ **WARN** The most common width is 658 among a set of 6 math glyphs.
+* ⚠ **WARN** The most common width is 670 among a set of 13 math glyphs.
 The following math glyphs have a different width, though:
 
-Width = 579:
-plusminus, plus
-
-Width = 478:
-greater, less
-
-Width = 543:
-equal
-
-Width = 568:
-logicalnot
-
-Width = 535:
-multiply
-
-Width = 573:
-divide
-
-Width = 509:
-minus
+Width = 658:
+uni2283, uni2285, uni2284, uni2282, uni2208, uni2209
 
 Width = 569:
 congruent
 
-Width = 570:
-approxequal
-
-Width = 542:
-notequal
-
-Width = 517:
-lessequal, greaterequal
-
 Width = 667:
-uni2289, uni228A, uni2288, uni2287, uni2286
+uni2286, uni228A, uni2287, uni2288, uni2289
 
 Width = 647:
 uni228B
@@ -769,10 +682,6 @@ uni228B
 
 	* trademark (U+2122) contains a short segment L<<578.0,471.0>--<580.0,471.0>>
 
-	* uni2206 (U+2206) contains a short segment L<<130.0,0.0>--<129.0,0.0>>
-
-	* uni2206 (U+2206) contains a short segment L<<129.0,0.0>--<130.0,0.0>>
-
 	* uni2284 (U+2284) contains a short segment L<<308.0,10.0>--<308.0,10.0>> 
 
 	* uni2285 (U+2285) contains a short segment L<<350.0,496.0>--<350.0,496.0>> [code: found-short-segments]
@@ -795,9 +704,7 @@ uni228B
 
 	* uni216F (U+216F): L<<276.0,481.0>--<254.0,368.0>> -> L<<254.0,368.0>--<210.0,111.0>>
 
-	* uni216F (U+216F): L<<748.0,111.0>--<704.0,368.0>> -> L<<704.0,368.0>--<683.0,481.0>>
-
-	* uni2206 (U+2206): L<<724.0,0.0>--<130.0,0.0>> -> L<<130.0,0.0>--<129.0,0.0>> 
+	* uni216F (U+216F): L<<748.0,111.0>--<704.0,368.0>> -> L<<704.0,368.0>--<683.0,481.0>> 
 
 	* uni2285 (U+2285): L<<50.0,496.0>--<350.0,496.0>> -> L<<350.0,496.0>--<350.0,496.0>> [code: found-colinear-vectors]
 </div></details><br></div></details><details><summary><b>[6] Gabarito-Bold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
@@ -814,41 +721,17 @@ The following glyphs do not have the recommended number of contours:
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
 
-* ⚠ **WARN** The most common width is 635 among a set of 6 math glyphs.
+* ⚠ **WARN** The most common width is 670 among a set of 13 math glyphs.
 The following math glyphs have a different width, though:
 
-Width = 556:
-plusminus, plus
-
-Width = 499:
-greater, less
-
-Width = 538:
-equal, notequal
-
-Width = 562:
-logicalnot
-
-Width = 550:
-multiply
-
-Width = 569:
-divide
-
-Width = 459:
-minus
+Width = 635:
+uni2283, uni2285, uni2284, uni2282, uni2208, uni2209
 
 Width = 587:
 congruent
 
-Width = 592:
-approxequal
-
-Width = 523:
-lessequal, greaterequal
-
 Width = 644:
-uni2289, uni228A, uni2288, uni2287, uni2286
+uni2286, uni228A, uni2287, uni2288, uni2289
 
 Width = 633:
 uni228B
@@ -944,11 +827,9 @@ uni228B
 
 	* uni2089 (U+2089): X=74.0,Y=2.0 (should be at baseline 0?)
 
-	* arrowdown (U+2193): X=249.0,Y=-261.0 (should be at descender -260?)
+	* arrowdown (U+2193): X=249.0,Y=-261.0 (should be at descender -260?) 
 
-	* uni2206 (U+2206): X=175.0,Y=-1.0 (should be at baseline 0?) 
-
-	* notequal (U+2260): X=220.0,Y=1.0 (should be at baseline 0?) [code: found-misalignments]
+	* notequal (U+2260): X=287.0,Y=1.0 (should be at baseline 0?) [code: found-misalignments]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -985,10 +866,6 @@ uni228B
 	* Euro (U+20AC) contains a short segment B<<241.0,348.0>-<240.0,338.0>-<240.0,328.0>>
 
 	* trademark (U+2122) contains a short segment L<<598.0,492.0>--<600.0,492.0>>
-
-	* uni2206 (U+2206) contains a short segment L<<176.0,0.0>--<175.0,-1.0>>
-
-	* uni2206 (U+2206) contains a short segment L<<175.0,-1.0>--<175.0,0.0>>
 
 	* lozenge (U+25CA) contains a short segment L<<27.0,334.0>--<27.0,345.0>> 
 
@@ -1037,35 +914,14 @@ The following glyphs do not have the recommended number of contours:
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
 
-* ⚠ **WARN** The most common width is 608 among a set of 7 math glyphs.
+* ⚠ **WARN** The most common width is 670 among a set of 13 math glyphs.
 The following math glyphs have a different width, though:
 
-Width = 529:
-plusminus, plus
-
-Width = 524:
-greater, less
-
-Width = 533:
-equal, notequal
-
-Width = 556:
-logicalnot
-
-Width = 568:
-multiply
-
-Width = 564:
-divide
-
-Width = 402:
-minus
+Width = 608:
+congruent, uni2283, uni2285, uni2282, uni2284, uni2208, uni2209
 
 Width = 617:
-uni228B, uni2289, uni228A, uni2288, uni2287, uni2286, approxequal
-
-Width = 531:
-lessequal, greaterequal
+uni2286, uni228A, uni2287, uni228B, uni2288, uni2289
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss">com.google.fonts/check/outline_alignment_miss</a>)</summary><div>
 
@@ -1196,8 +1052,6 @@ lessequal, greaterequal
 
 	* emptyset (U+2205): X=295.5,Y=2.0 (should be at baseline 0?)
 
-	* uni2206 (U+2206): X=229.0,Y=-1.0 (should be at baseline 0?)
-
 	* integral (U+222B): X=344.0,Y=682.5 (should be at cap-height 681?)
 
 	* uni25CF (U+25CF): X=238.0,Y=-2.0 (should be at baseline 0?)
@@ -1278,10 +1132,6 @@ lessequal, greaterequal
 
 	* uni216F (U+216F) contains a short segment B<<295.5,338.0>-<291.0,351.0>-<286.0,366.0>>
 
-	* uni2206 (U+2206) contains a short segment L<<230.0,0.0>--<229.0,-1.0>>
-
-	* uni2206 (U+2206) contains a short segment L<<229.0,-1.0>--<229.0,0.0>>
-
 	* lozenge (U+25CA) contains a short segment L<<12.0,334.0>--<12.0,345.0>> 
 
 	* lozenge (U+25CA) contains a short segment L<<597.0,345.0>--<597.0,334.0>> [code: found-short-segments]
@@ -1325,41 +1175,14 @@ The following glyphs do not have the recommended number of contours:
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
 
-* ⚠ **WARN** The most common width is 670 among a set of 6 math glyphs.
+* ⚠ **WARN** The most common width is 670 among a set of 19 math glyphs.
 The following math glyphs have a different width, though:
 
-Width = 591:
-plusminus, plus
-
-Width = 467:
-greater, less
-
-Width = 545:
-equal
-
-Width = 571:
-logicalnot
-
-Width = 527:
-multiply
-
-Width = 575:
-divide
-
-Width = 535:
-minus
-
 Width = 559:
-approxequal, congruent
-
-Width = 544:
-notequal
-
-Width = 513:
-lessequal, greaterequal
+congruent
 
 Width = 679:
-uni2289, uni228A, uni2288, uni2287, uni2286
+uni2286, uni228A, uni2287, uni2288, uni2289
 
 Width = 654:
 uni228B
