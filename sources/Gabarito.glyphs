@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3214";
 .formatVersion = 3;
 axes = (
 {
@@ -88,11 +88,11 @@ size = 8;
 },
 {
 pos = 0;
-size = "-15";
+size = -15;
 },
 {
-pos = "-190";
-size = "-15";
+pos = -190;
+size = -15;
 }
 );
 }
@@ -134,6 +134,7 @@ feature ss01;
 feature ss02;
 feature pnum;
 feature tnum;
+feature fwid;
 ";
 tag = aalt;
 },
@@ -456,6 +457,13 @@ lookup uppercaseSharpS;
 # END German cap sharp s
 ";
 tag = calt;
+},
+{
+automatic = 1;
+code = "sub space by emspace;
+sub macron by macron.full;
+";
+tag = fwid;
 }
 );
 fontMaster = (
@@ -505,7 +513,7 @@ name = winDescent;
 value = 295;
 }
 );
-iconName = Bold;
+iconName = SemiLight;
 id = "344A0678-763D-4FBD-9EF6-1E94428A847E";
 metricValues = (
 {
@@ -769,7 +777,9 @@ y = 366;
 width = 648;
 }
 );
-note = "\012    A\012  ";
+note = "
+    A
+  ";
 unicode = 65;
 },
 {
@@ -821,7 +831,9 @@ com.typemytype.robofont.mark = (
 width = 648;
 }
 );
-note = "\012    Aacute\012  ";
+note = "
+    Aacute
+  ";
 unicode = 193;
 },
 {
@@ -941,7 +953,9 @@ com.typemytype.robofont.mark = (
 width = 648;
 }
 );
-note = "\012    Acircumflex\012  ";
+note = "
+    Acircumflex
+  ";
 unicode = 194;
 },
 {
@@ -993,7 +1007,9 @@ com.typemytype.robofont.mark = (
 width = 648;
 }
 );
-note = "\012    Adieresis\012  ";
+note = "
+    Adieresis
+  ";
 unicode = 196;
 },
 {
@@ -1045,7 +1061,9 @@ com.typemytype.robofont.mark = (
 width = 648;
 }
 );
-note = "\012    Agrave\012  ";
+note = "
+    Agrave
+  ";
 unicode = 192;
 },
 {
@@ -1181,7 +1199,9 @@ com.typemytype.robofont.mark = (
 width = 648;
 }
 );
-note = "\012    Aring\012  ";
+note = "
+    Aring
+  ";
 unicode = 197;
 },
 {
@@ -1233,7 +1253,9 @@ com.typemytype.robofont.mark = (
 width = 648;
 }
 );
-note = "\012    Atilde\012  ";
+note = "
+    Atilde
+  ";
 unicode = 195;
 },
 {
@@ -1478,7 +1500,9 @@ width = 874;
 );
 metricLeft = A;
 metricRight = E;
-note = "\012    AE\012  ";
+note = "
+    AE
+  ";
 unicode = 198;
 },
 {
@@ -1691,7 +1715,9 @@ width = 582;
 }
 );
 metricLeft = H;
-note = "\012    B\012  ";
+note = "
+    B
+  ";
 unicode = 66;
 },
 {
@@ -2096,7 +2122,9 @@ width = 710;
 }
 );
 metricLeft = O;
-note = "\012    C\012  ";
+note = "
+    C
+  ";
 unicode = 67;
 },
 {
@@ -2216,7 +2244,9 @@ com.typemytype.robofont.mark = (
 width = 685;
 }
 );
-note = "\012    Ccedilla\012  ";
+note = "
+    Ccedilla
+  ";
 unicode = 199;
 },
 {
@@ -2530,7 +2560,9 @@ width = 647;
 );
 metricLeft = H;
 metricRight = O;
-note = "\012    D\012  ";
+note = "
+    D
+  ";
 unicode = 68;
 },
 {
@@ -2683,7 +2715,9 @@ com.typemytype.robofont.mark = (
 width = 686;
 }
 );
-note = "\012    Eth\012  ";
+note = "
+    Eth
+  ";
 unicode = 208;
 },
 {
@@ -2922,7 +2956,9 @@ width = 521;
 }
 );
 metricLeft = H;
-note = "\012    E\012  ";
+note = "
+    E
+  ";
 unicode = 69;
 },
 {
@@ -2974,7 +3010,9 @@ com.typemytype.robofont.mark = (
 width = 521;
 }
 );
-note = "\012    Eacute\012  ";
+note = "
+    Eacute
+  ";
 unicode = 201;
 },
 {
@@ -3060,7 +3098,9 @@ com.typemytype.robofont.mark = (
 width = 521;
 }
 );
-note = "\012    Ecircumflex\012  ";
+note = "
+    Ecircumflex
+  ";
 unicode = 202;
 },
 {
@@ -3112,7 +3152,9 @@ com.typemytype.robofont.mark = (
 width = 521;
 }
 );
-note = "\012    Edieresis\012  ";
+note = "
+    Edieresis
+  ";
 unicode = 203;
 },
 {
@@ -3198,7 +3240,9 @@ com.typemytype.robofont.mark = (
 width = 521;
 }
 );
-note = "\012    Egrave\012  ";
+note = "
+    Egrave
+  ";
 unicode = 200;
 },
 {
@@ -3509,7 +3553,9 @@ width = 508;
 }
 );
 metricLeft = H;
-note = "\012    F\012  ";
+note = "
+    F
+  ";
 unicode = 70;
 },
 {
@@ -3841,7 +3887,9 @@ width = 705;
 }
 );
 metricLeft = O;
-note = "\012    G\012  ";
+note = "
+    G
+  ";
 unicode = 71;
 },
 {
@@ -4316,7 +4364,9 @@ width = 740;
 width = 663;
 }
 );
-note = "\012    H\012  ";
+note = "
+    H
+  ";
 unicode = 72;
 },
 {
@@ -4458,7 +4508,9 @@ width = 263;
 );
 metricLeft = H;
 metricRight = H;
-note = "\012    I\012  ";
+note = "
+    I
+  ";
 unicode = 73;
 },
 {
@@ -4855,7 +4907,9 @@ com.typemytype.robofont.mark = (
 width = 263;
 }
 );
-note = "\012    Iacute\012  ";
+note = "
+    Iacute
+  ";
 unicode = 205;
 },
 {
@@ -4907,7 +4961,9 @@ com.typemytype.robofont.mark = (
 width = 263;
 }
 );
-note = "\012    Icircumflex\012  ";
+note = "
+    Icircumflex
+  ";
 unicode = 206;
 },
 {
@@ -4959,7 +5015,9 @@ com.typemytype.robofont.mark = (
 width = 263;
 }
 );
-note = "\012    Idieresis\012  ";
+note = "
+    Idieresis
+  ";
 unicode = 207;
 },
 {
@@ -5045,7 +5103,9 @@ com.typemytype.robofont.mark = (
 width = 263;
 }
 );
-note = "\012    Igrave\012  ";
+note = "
+    Igrave
+  ";
 unicode = 204;
 },
 {
@@ -5367,7 +5427,9 @@ width = 565;
 }
 );
 metricRight = U;
-note = "\012    J\012  ";
+note = "
+    J
+  ";
 unicode = 74;
 },
 {
@@ -5669,7 +5731,9 @@ width = 647;
 }
 );
 metricLeft = H;
-note = "\012    K\012  ";
+note = "
+    K
+  ";
 unicode = 75;
 },
 {
@@ -5815,7 +5879,9 @@ width = 489;
 }
 );
 metricLeft = H;
-note = "\012    L\012  ";
+note = "
+    L
+  ";
 unicode = 76;
 },
 {
@@ -6466,7 +6532,9 @@ width = 939;
 width = 853;
 }
 );
-note = "\012    M\012  ";
+note = "
+    M
+  ";
 unicode = 77;
 },
 {
@@ -6573,7 +6641,9 @@ width = 685;
 );
 metricLeft = H;
 metricRight = H;
-note = "\012    N\012  ";
+note = "
+    N
+  ";
 unicode = 78;
 },
 {
@@ -6727,7 +6797,9 @@ com.typemytype.robofont.mark = (
 width = 685;
 }
 );
-note = "\012    Ntilde\012  ";
+note = "
+    Ntilde
+  ";
 unicode = 209;
 },
 {
@@ -7143,7 +7215,9 @@ width = 799;
 width = 725;
 }
 );
-note = "\012    O\012  ";
+note = "
+    O
+  ";
 unicode = 79;
 },
 {
@@ -7195,7 +7269,9 @@ com.typemytype.robofont.mark = (
 width = 725;
 }
 );
-note = "\012    Oacute\012  ";
+note = "
+    Oacute
+  ";
 unicode = 211;
 },
 {
@@ -7247,7 +7323,9 @@ com.typemytype.robofont.mark = (
 width = 725;
 }
 );
-note = "\012    Ocircumflex\012  ";
+note = "
+    Ocircumflex
+  ";
 unicode = 212;
 },
 {
@@ -7299,7 +7377,9 @@ com.typemytype.robofont.mark = (
 width = 725;
 }
 );
-note = "\012    Odieresis\012  ";
+note = "
+    Odieresis
+  ";
 unicode = 214;
 },
 {
@@ -7351,7 +7431,9 @@ com.typemytype.robofont.mark = (
 width = 725;
 }
 );
-note = "\012    Ograve\012  ";
+note = "
+    Ograve
+  ";
 unicode = 210;
 },
 {
@@ -7808,7 +7890,9 @@ width = 725;
 );
 metricLeft = O;
 metricRight = O;
-note = "\012    Oslash\012  ";
+note = "
+    Oslash
+  ";
 unicode = 216;
 },
 {
@@ -7860,7 +7944,9 @@ com.typemytype.robofont.mark = (
 width = 725;
 }
 );
-note = "\012    Otilde\012  ";
+note = "
+    Otilde
+  ";
 unicode = 213;
 },
 {
@@ -8411,7 +8497,9 @@ width = 573;
 }
 );
 metricLeft = H;
-note = "\012    P\012  ";
+note = "
+    P
+  ";
 unicode = 80;
 },
 {
@@ -8540,7 +8628,9 @@ width = 573;
 );
 metricLeft = H;
 metricRight = P;
-note = "\012    P\012  ";
+note = "
+    P
+  ";
 unicode = 222;
 },
 {
@@ -8896,7 +8986,9 @@ width = 725;
 );
 metricLeft = O;
 metricRight = O;
-note = "\012    Q\012  ";
+note = "
+    Q
+  ";
 unicode = 81;
 },
 {
@@ -9244,7 +9336,9 @@ width = 585;
 }
 );
 metricLeft = H;
-note = "\012    R\012  ";
+note = "
+    R
+  ";
 unicode = 82;
 },
 {
@@ -10041,7 +10135,9 @@ y = 683;
 width = 555;
 }
 );
-note = "\012    S\012  ";
+note = "
+    S
+  ";
 unicode = 83;
 },
 {
@@ -10127,7 +10223,9 @@ com.typemytype.robofont.mark = (
 width = 580;
 }
 );
-note = "\012    Scaron\012  ";
+note = "
+    Scaron
+  ";
 unicode = 352;
 },
 {
@@ -11252,7 +11350,9 @@ width = 646;
 width = 587;
 }
 );
-note = "\012    T\012  ";
+note = "
+    T
+  ";
 unicode = 84;
 },
 {
@@ -11644,7 +11744,9 @@ y = 683;
 width = 688;
 }
 );
-note = "\012    U\012  ";
+note = "
+    U
+  ";
 unicode = 85;
 },
 {
@@ -11696,7 +11798,9 @@ com.typemytype.robofont.mark = (
 width = 652;
 }
 );
-note = "\012    Uacute\012  ";
+note = "
+    Uacute
+  ";
 unicode = 218;
 },
 {
@@ -11782,7 +11886,9 @@ com.typemytype.robofont.mark = (
 width = 652;
 }
 );
-note = "\012    Ucircumflex\012  ";
+note = "
+    Ucircumflex
+  ";
 unicode = 219;
 },
 {
@@ -11834,7 +11940,9 @@ com.typemytype.robofont.mark = (
 width = 652;
 }
 );
-note = "\012    Udieresis\012  ";
+note = "
+    Udieresis
+  ";
 unicode = 220;
 },
 {
@@ -11886,7 +11994,9 @@ com.typemytype.robofont.mark = (
 width = 652;
 }
 );
-note = "\012    Ugrave\012  ";
+note = "
+    Ugrave
+  ";
 unicode = 217;
 },
 {
@@ -12284,7 +12394,9 @@ width = 711;
 width = 644;
 }
 );
-note = "\012    V\012  ";
+note = "
+    V
+  ";
 unicode = 86;
 },
 {
@@ -12582,7 +12694,9 @@ width = 1110;
 width = 1006;
 }
 );
-note = "\012    W\012  ";
+note = "
+    W
+  ";
 unicode = 87;
 },
 {
@@ -12952,7 +13066,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 14:00:27 +0000";
 width = 631;
 }
 );
-note = "\012    X\012  ";
+note = "
+    X
+  ";
 unicode = 88;
 },
 {
@@ -13108,7 +13224,9 @@ width = 726;
 width = 650;
 }
 );
-note = "\012    Y\012  ";
+note = "
+    Y
+  ";
 unicode = 89;
 },
 {
@@ -13160,7 +13278,9 @@ com.typemytype.robofont.mark = (
 width = 650;
 }
 );
-note = "\012    Yacute\012  ";
+note = "
+    Yacute
+  ";
 unicode = 221;
 },
 {
@@ -13246,7 +13366,9 @@ com.typemytype.robofont.mark = (
 width = 650;
 }
 );
-note = "\012    Ydieresis\012  ";
+note = "
+    Ydieresis
+  ";
 unicode = 376;
 },
 {
@@ -13483,7 +13605,9 @@ width = 653;
 width = 593;
 }
 );
-note = "\012    Z\012  ";
+note = "
+    Z
+  ";
 unicode = 90;
 },
 {
@@ -13569,7 +13693,9 @@ com.typemytype.robofont.mark = (
 width = 593;
 }
 );
-note = "\012    Zcaron\012  ";
+note = "
+    Zcaron
+  ";
 unicode = 381;
 },
 {
@@ -13971,7 +14097,9 @@ width = 406;
 width = 362;
 }
 );
-note = "\012    J\012  ";
+note = "
+    J
+  ";
 },
 {
 glyphname = a;
@@ -15060,7 +15188,9 @@ width = 560;
 width = 620;
 }
 );
-note = "\012    a\012  ";
+note = "
+    a
+  ";
 unicode = 97;
 },
 {
@@ -15112,7 +15242,9 @@ com.typemytype.robofont.mark = (
 width = 520;
 }
 );
-note = "\012    aacute\012  ";
+note = "
+    aacute
+  ";
 unicode = 225;
 },
 {
@@ -15232,7 +15364,9 @@ com.typemytype.robofont.mark = (
 width = 520;
 }
 );
-note = "\012    acircumflex\012  ";
+note = "
+    acircumflex
+  ";
 unicode = 226;
 },
 {
@@ -15284,7 +15418,9 @@ com.typemytype.robofont.mark = (
 width = 520;
 }
 );
-note = "\012    adieresis\012  ";
+note = "
+    adieresis
+  ";
 unicode = 228;
 },
 {
@@ -15336,7 +15472,9 @@ com.typemytype.robofont.mark = (
 width = 520;
 }
 );
-note = "\012    agrave\012  ";
+note = "
+    agrave
+  ";
 unicode = 224;
 },
 {
@@ -15654,7 +15792,9 @@ com.typemytype.robofont.mark = (
 width = 520;
 }
 );
-note = "\012    aring\012  ";
+note = "
+    aring
+  ";
 unicode = 229;
 },
 {
@@ -15706,7 +15846,9 @@ com.typemytype.robofont.mark = (
 width = 520;
 }
 );
-note = "\012    atilde\012  ";
+note = "
+    atilde
+  ";
 unicode = 227;
 },
 {
@@ -17131,7 +17273,9 @@ width = 901;
 );
 metricLeft = a;
 metricRight = e;
-note = "\012    ae\012  ";
+note = "
+    ae
+  ";
 unicode = 230;
 },
 {
@@ -17489,7 +17633,9 @@ width = 663;
 width = 572;
 }
 );
-note = "\012    b\012  ";
+note = "
+    b
+  ";
 unicode = 98;
 },
 {
@@ -17935,7 +18081,9 @@ width = 540;
 width = 510;
 }
 );
-note = "\012    c\012  ";
+note = "
+    c
+  ";
 unicode = 99;
 },
 {
@@ -18055,7 +18203,9 @@ com.typemytype.robofont.mark = (
 width = 512;
 }
 );
-note = "\012    ccedilla\012  ";
+note = "
+    ccedilla
+  ";
 unicode = 231;
 },
 {
@@ -18475,7 +18625,9 @@ width = 663;
 width = 572;
 }
 );
-note = "\012    d\012  ";
+note = "
+    d
+  ";
 unicode = 100;
 },
 {
@@ -19382,7 +19534,9 @@ com.typemytype.robofont.mark = (
 width = 567;
 }
 );
-note = "\012    eth\012  ";
+note = "
+    eth
+  ";
 unicode = 240;
 },
 {
@@ -20393,7 +20547,9 @@ width = 569;
 width = 513;
 }
 );
-note = "\012    e\012  ";
+note = "
+    e
+  ";
 unicode = 101;
 },
 {
@@ -20445,7 +20601,9 @@ com.typemytype.robofont.mark = (
 width = 528;
 }
 );
-note = "\012    eacute\012  ";
+note = "
+    eacute
+  ";
 unicode = 233;
 },
 {
@@ -20531,7 +20689,9 @@ com.typemytype.robofont.mark = (
 width = 528;
 }
 );
-note = "\012    ecircumflex\012  ";
+note = "
+    ecircumflex
+  ";
 unicode = 234;
 },
 {
@@ -20583,7 +20743,9 @@ com.typemytype.robofont.mark = (
 width = 528;
 }
 );
-note = "\012    edieresis\012  ";
+note = "
+    edieresis
+  ";
 unicode = 235;
 },
 {
@@ -20669,7 +20831,9 @@ com.typemytype.robofont.mark = (
 width = 528;
 }
 );
-note = "\012    egrave\012  ";
+note = "
+    egrave
+  ";
 unicode = 232;
 },
 {
@@ -21193,7 +21357,9 @@ width = 397;
 width = 357;
 }
 );
-note = "\012    f\012  ";
+note = "
+    f
+  ";
 unicode = 102;
 },
 {
@@ -21391,7 +21557,9 @@ y = -26;
 width = 574;
 }
 );
-note = "\012    q\012  ";
+note = "
+    q
+  ";
 unicode = 103;
 },
 {
@@ -21766,7 +21934,9 @@ width = 597;
 width = 556;
 }
 );
-note = "\012    h\012  ";
+note = "
+    h
+  ";
 unicode = 104;
 },
 {
@@ -21994,7 +22164,9 @@ y = 270;
 width = 270;
 }
 );
-note = "\012    i\012  ";
+note = "
+    i
+  ";
 unicode = 105;
 },
 {
@@ -22101,13 +22273,15 @@ width = 270;
 );
 metricRight = "=|";
 metricWidth = i;
-note = "\012    i\012  ";
+note = "
+    i
+  ";
 unicode = 305;
 },
 {
 glyphname = iacute;
 kernLeft = i;
-kernRight = i;
+kernRight = icirc;
 layers = (
 {
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
@@ -22153,13 +22327,15 @@ com.typemytype.robofont.mark = (
 width = 270;
 }
 );
-note = "\012    iacute\012  ";
+note = "
+    iacute
+  ";
 unicode = 237;
 },
 {
 glyphname = icircumflex;
-kernLeft = i;
-kernRight = i;
+kernLeft = icirc;
+kernRight = icirc;
 layers = (
 {
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
@@ -22205,13 +22381,15 @@ com.typemytype.robofont.mark = (
 width = 270;
 }
 );
-note = "\012    icircumflex\012  ";
+note = "
+    icircumflex
+  ";
 unicode = 238;
 },
 {
 glyphname = idieresis;
-kernLeft = i;
-kernRight = i;
+kernLeft = icirc;
+kernRight = icirc;
 layers = (
 {
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
@@ -22257,7 +22435,9 @@ com.typemytype.robofont.mark = (
 width = 270;
 }
 );
-note = "\012    idieresis\012  ";
+note = "
+    idieresis
+  ";
 unicode = 239;
 },
 {
@@ -22295,7 +22475,7 @@ width = 270;
 },
 {
 glyphname = igrave;
-kernLeft = i;
+kernLeft = icirc;
 kernRight = i;
 layers = (
 {
@@ -22342,7 +22522,9 @@ com.typemytype.robofont.mark = (
 width = 270;
 }
 );
-note = "\012    igrave\012  ";
+note = "
+    igrave
+  ";
 unicode = 236;
 },
 {
@@ -22701,8 +22883,8 @@ unicode = 307;
 },
 {
 glyphname = imacron;
-kernLeft = i;
-kernRight = i;
+kernLeft = icirc;
+kernRight = icirc;
 layers = (
 {
 layerId = "344A0678-763D-4FBD-9EF6-1E94428A847E";
@@ -22931,7 +23113,9 @@ width = 280;
 width = 279;
 }
 );
-note = "\012    j\012  ";
+note = "
+    j
+  ";
 unicode = 106;
 },
 {
@@ -23137,7 +23321,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 width = 552;
 }
 );
-note = "\012    k\012  ";
+note = "
+    k
+  ";
 unicode = 107;
 },
 {
@@ -23294,7 +23480,9 @@ y = 748;
 width = 288;
 }
 );
-note = "\012    l\012  ";
+note = "
+    l
+  ";
 unicode = 108;
 },
 {
@@ -23901,7 +24089,9 @@ width = 904;
 width = 834;
 }
 );
-note = "\012    m\012  ";
+note = "
+    m
+  ";
 unicode = 109;
 },
 {
@@ -24185,7 +24375,9 @@ width = 597;
 width = 555;
 }
 );
-note = "\012    n\012  ";
+note = "
+    n
+  ";
 unicode = 110;
 },
 {
@@ -24339,7 +24531,9 @@ com.typemytype.robofont.mark = (
 width = 555;
 }
 );
-note = "\012    ntilde\012  ";
+note = "
+    ntilde
+  ";
 unicode = 241;
 },
 {
@@ -24595,7 +24789,9 @@ y = 245;
 width = 557;
 }
 );
-note = "\012    o\012  ";
+note = "
+    o
+  ";
 unicode = 111;
 },
 {
@@ -24647,7 +24843,9 @@ com.typemytype.robofont.mark = (
 width = 557;
 }
 );
-note = "\012    oacute\012  ";
+note = "
+    oacute
+  ";
 unicode = 243;
 },
 {
@@ -24699,7 +24897,9 @@ com.typemytype.robofont.mark = (
 width = 557;
 }
 );
-note = "\012    ocircumflex\012  ";
+note = "
+    ocircumflex
+  ";
 unicode = 244;
 },
 {
@@ -24751,7 +24951,9 @@ com.typemytype.robofont.mark = (
 width = 557;
 }
 );
-note = "\012    odieresis\012  ";
+note = "
+    odieresis
+  ";
 unicode = 246;
 },
 {
@@ -24803,7 +25005,9 @@ com.typemytype.robofont.mark = (
 width = 557;
 }
 );
-note = "\012    ograve\012  ";
+note = "
+    ograve
+  ";
 unicode = 242;
 },
 {
@@ -25209,7 +25413,9 @@ com.typemytype.robofont.mark = (
 width = 549;
 }
 );
-note = "\012    oslash\012  ";
+note = "
+    oslash
+  ";
 unicode = 248;
 },
 {
@@ -25261,7 +25467,9 @@ com.typemytype.robofont.mark = (
 width = 557;
 }
 );
-note = "\012    otilde\012  ";
+note = "
+    otilde
+  ";
 unicode = 245;
 },
 {
@@ -25809,7 +26017,9 @@ com.typemytype.robofont.mark = (
 width = 864;
 }
 );
-note = "\012    oe\012  ";
+note = "
+    oe
+  ";
 unicode = 339;
 },
 {
@@ -26120,7 +26330,9 @@ width = 663;
 width = 572;
 }
 );
-note = "\012    p\012  ";
+note = "
+    p
+  ";
 unicode = 112;
 },
 {
@@ -26519,7 +26731,9 @@ com.typemytype.robofont.mark = (
 width = 572;
 }
 );
-note = "\012    p\012  ";
+note = "
+    p
+  ";
 unicode = 254;
 },
 {
@@ -26657,7 +26871,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:55 +0000";
 width = 572;
 }
 );
-note = "\012    q\012  ";
+note = "
+    q
+  ";
 unicode = 113;
 },
 {
@@ -26911,7 +27127,9 @@ width = 419;
 width = 384;
 }
 );
-note = "\012    r\012  ";
+note = "
+    r
+  ";
 unicode = 114;
 },
 {
@@ -27446,7 +27664,9 @@ width = 530;
 width = 465;
 }
 );
-note = "\012    s\012  ";
+note = "
+    s
+  ";
 unicode = 115;
 },
 {
@@ -27532,7 +27752,9 @@ com.typemytype.robofont.mark = (
 width = 465;
 }
 );
-note = "\012    scaron\012  ";
+note = "
+    scaron
+  ";
 unicode = 353;
 },
 {
@@ -29289,7 +29511,9 @@ width = 459;
 width = 426;
 }
 );
-note = "\012    t\012  ";
+note = "
+    t
+  ";
 unicode = 116;
 },
 {
@@ -29680,7 +29904,9 @@ width = 597;
 width = 556;
 }
 );
-note = "\012    u\012  ";
+note = "
+    u
+  ";
 unicode = 117;
 },
 {
@@ -29732,7 +29958,9 @@ com.typemytype.robofont.mark = (
 width = 556;
 }
 );
-note = "\012    uacute\012  ";
+note = "
+    uacute
+  ";
 unicode = 250;
 },
 {
@@ -29818,7 +30046,9 @@ com.typemytype.robofont.mark = (
 width = 556;
 }
 );
-note = "\012    ucircumflex\012  ";
+note = "
+    ucircumflex
+  ";
 unicode = 251;
 },
 {
@@ -29870,7 +30100,9 @@ com.typemytype.robofont.mark = (
 width = 556;
 }
 );
-note = "\012    udieresis\012  ";
+note = "
+    udieresis
+  ";
 unicode = 252;
 },
 {
@@ -29922,7 +30154,9 @@ com.typemytype.robofont.mark = (
 width = 556;
 }
 );
-note = "\012    ugrave\012  ";
+note = "
+    ugrave
+  ";
 unicode = 249;
 },
 {
@@ -30318,7 +30552,9 @@ width = 588;
 width = 532;
 }
 );
-note = "\012    v\012  ";
+note = "
+    v
+  ";
 unicode = 118;
 },
 {
@@ -30574,7 +30810,9 @@ width = 867;
 width = 785;
 }
 );
-note = "\012    w\012  ";
+note = "
+    w
+  ";
 unicode = 119;
 },
 {
@@ -30912,7 +31150,9 @@ width = 616;
 width = 558;
 }
 );
-note = "\012    x\012  ";
+note = "
+    x
+  ";
 unicode = 120;
 },
 {
@@ -31076,7 +31316,9 @@ width = 646;
 width = 585;
 }
 );
-note = "\012    y\012  ";
+note = "
+    y
+  ";
 unicode = 121;
 },
 {
@@ -31128,7 +31370,9 @@ com.typemytype.robofont.mark = (
 width = 585;
 }
 );
-note = "\012    yacute\012  ";
+note = "
+    yacute
+  ";
 unicode = 253;
 },
 {
@@ -31214,7 +31458,9 @@ com.typemytype.robofont.mark = (
 width = 585;
 }
 );
-note = "\012    ydieresis\012  ";
+note = "
+    ydieresis
+  ";
 unicode = 255;
 },
 {
@@ -31453,7 +31699,9 @@ width = 520;
 width = 499;
 }
 );
-note = "\012    z\012  ";
+note = "
+    z
+  ";
 unicode = 122;
 },
 {
@@ -31539,7 +31787,9 @@ com.typemytype.robofont.mark = (
 width = 499;
 }
 );
-note = "\012    zcaron\012  ";
+note = "
+    zcaron
+  ";
 unicode = 382;
 },
 {
@@ -31906,7 +32156,9 @@ com.typemytype.robofont.mark = (
 width = 370;
 }
 );
-note = "\012    a\012  ";
+note = "
+    a
+  ";
 unicode = 170;
 },
 {
@@ -32042,7 +32294,9 @@ com.typemytype.robofont.mark = (
 width = 405;
 }
 );
-note = "\012    o\012  ";
+note = "
+    o
+  ";
 unicode = 186;
 },
 {
@@ -32224,7 +32478,9 @@ com.typemytype.robofont.mark = (
 width = 483;
 }
 );
-note = "\012    uni2160\012  ";
+note = "
+    uni2160
+  ";
 unicode = 8544;
 },
 {
@@ -32452,7 +32708,9 @@ com.typemytype.robofont.mark = (
 width = 759;
 }
 );
-note = "\012    uni2161\012  ";
+note = "
+    uni2161
+  ";
 unicode = 8545;
 },
 {
@@ -32726,7 +32984,9 @@ com.typemytype.robofont.mark = (
 width = 1037;
 }
 );
-note = "\012    uni2162\012  ";
+note = "
+    uni2162
+  ";
 unicode = 8546;
 },
 {
@@ -33017,7 +33277,9 @@ com.typemytype.robofont.mark = (
 width = 1013;
 }
 );
-note = "\012    uni2163\012  ";
+note = "
+    uni2163
+  ";
 unicode = 8547;
 },
 {
@@ -33239,7 +33501,9 @@ com.typemytype.robofont.mark = (
 width = 728;
 }
 );
-note = "\012    uni2164\012  ";
+note = "
+    uni2164
+  ";
 unicode = 8548;
 },
 {
@@ -33507,7 +33771,9 @@ com.typemytype.robofont.mark = (
 width = 1013;
 }
 );
-note = "\012    uni2165\012  ";
+note = "
+    uni2165
+  ";
 unicode = 8549;
 },
 {
@@ -33821,7 +34087,9 @@ com.typemytype.robofont.mark = (
 width = 1291;
 }
 );
-note = "\012    uni2166\012  ";
+note = "
+    uni2166
+  ";
 unicode = 8550;
 },
 {
@@ -34181,7 +34449,9 @@ com.typemytype.robofont.mark = (
 width = 1574;
 }
 );
-note = "\012    uni2167\012  ";
+note = "
+    uni2167
+  ";
 unicode = 8551;
 },
 {
@@ -34504,7 +34774,9 @@ com.typemytype.robofont.mark = (
 width = 978;
 }
 );
-note = "\012    uni2163\012  ";
+note = "
+    uni2163
+  ";
 unicode = 8552;
 },
 {
@@ -34780,7 +35052,9 @@ com.typemytype.robofont.mark = (
 width = 710;
 }
 );
-note = "\012    uni2169\012  ";
+note = "
+    uni2169
+  ";
 unicode = 8553;
 },
 {
@@ -35047,7 +35321,9 @@ com.typemytype.robofont.mark = (
 width = 645;
 }
 );
-note = "\012    uni216C\012  ";
+note = "
+    uni216C
+  ";
 unicode = 8556;
 },
 {
@@ -35231,7 +35507,9 @@ com.typemytype.robofont.mark = (
 width = 714;
 }
 );
-note = "\012    uni2160\012  ";
+note = "
+    uni2160
+  ";
 unicode = 8557;
 },
 {
@@ -35498,7 +35776,9 @@ com.typemytype.robofont.mark = (
 width = 725;
 }
 );
-note = "\012    uni216E\012  ";
+note = "
+    uni216E
+  ";
 unicode = 8558;
 },
 {
@@ -36212,7 +36492,9 @@ com.typemytype.robofont.mark = (
 width = 930;
 }
 );
-note = "\012    uni216F\012  ";
+note = "
+    uni216F
+  ";
 unicode = 8559;
 },
 {
@@ -36493,7 +36775,9 @@ com.typemytype.robofont.mark = (
 width = 579;
 }
 );
-note = "\012    zero\012  ";
+note = "
+    zero
+  ";
 unicode = 48;
 },
 {
@@ -36564,7 +36848,9 @@ com.typemytype.robofont.mark = (
 width = 378;
 }
 );
-note = "\012    one\012  ";
+note = "
+    one
+  ";
 unicode = 49;
 },
 {
@@ -36701,7 +36987,9 @@ com.typemytype.robofont.mark = (
 width = 533;
 }
 );
-note = "\012    two\012  ";
+note = "
+    two
+  ";
 unicode = 50;
 },
 {
@@ -37067,7 +37355,9 @@ com.typemytype.robofont.mark = (
 width = 607;
 }
 );
-note = "\012    three\012  ";
+note = "
+    three
+  ";
 unicode = 51;
 },
 {
@@ -37312,7 +37602,9 @@ com.typemytype.robofont.mark = (
 width = 610;
 }
 );
-note = "\012    four\012  ";
+note = "
+    four
+  ";
 unicode = 52;
 },
 {
@@ -37736,7 +38028,9 @@ com.typemytype.robofont.mark = (
 width = 614;
 }
 );
-note = "\012    five\012  ";
+note = "
+    five
+  ";
 unicode = 53;
 },
 {
@@ -38034,7 +38328,9 @@ com.typemytype.robofont.mark = (
 width = 544;
 }
 );
-note = "\012    six\012  ";
+note = "
+    six
+  ";
 unicode = 54;
 },
 {
@@ -38096,7 +38392,9 @@ com.typemytype.robofont.mark = (
 width = 515;
 }
 );
-note = "\012    seven\012  ";
+note = "
+    seven
+  ";
 unicode = 55;
 },
 {
@@ -38478,7 +38776,9 @@ com.typemytype.robofont.mark = (
 width = 630;
 }
 );
-note = "\012    eight\012  ";
+note = "
+    eight
+  ";
 unicode = 56;
 },
 {
@@ -39422,7 +39722,9 @@ com.typemytype.robofont.mark = (
 width = 545;
 }
 );
-note = "\012    nine\012  ";
+note = "
+    nine
+  ";
 unicode = 57;
 },
 {
@@ -39678,7 +39980,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    zero.tf\012  ";
+note = "
+    zero.tf
+  ";
 },
 {
 glyphname = one.tf;
@@ -39920,7 +40224,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    one.tf\012  ";
+note = "
+    one.tf
+  ";
 },
 {
 glyphname = two.tf;
@@ -40017,7 +40323,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    two.tf\012  ";
+note = "
+    two.tf
+  ";
 },
 {
 glyphname = three.tf;
@@ -40434,7 +40742,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    three.tf\012  ";
+note = "
+    three.tf
+  ";
 },
 {
 glyphname = four.tf;
@@ -40517,7 +40827,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    four.tf\012  ";
+note = "
+    four.tf
+  ";
 },
 {
 glyphname = five.tf;
@@ -40628,7 +40940,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    five.tf\012  ";
+note = "
+    five.tf
+  ";
 },
 {
 glyphname = six.tf;
@@ -40759,7 +41073,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    six.tf\012  ";
+note = "
+    six.tf
+  ";
 },
 {
 glyphname = seven.tf;
@@ -40820,7 +41136,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    seven.tf\012  ";
+note = "
+    seven.tf
+  ";
 },
 {
 glyphname = eight.tf;
@@ -40985,7 +41303,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    eight.tf\012  ";
+note = "
+    eight.tf
+  ";
 },
 {
 glyphname = nine.tf;
@@ -41116,7 +41436,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    nine.tf\012  ";
+note = "
+    nine.tf
+  ";
 },
 {
 glyphname = zero.sansSerifCircled;
@@ -41275,7 +41597,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 width = 782;
 }
 );
-note = "\012    one\012  ";
+note = "
+    one
+  ";
 sortName = Nu.circledSansSerif.0000;
 unicode = 127243;
 },
@@ -41400,7 +41724,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 width = 782;
 }
 );
-note = "\012    one\012  ";
+note = "
+    one
+  ";
 unicode = 10112;
 },
 {
@@ -41572,7 +41898,9 @@ y = 452;
 width = 782;
 }
 );
-note = "\012    two\012  ";
+note = "
+    two
+  ";
 unicode = 10113;
 },
 {
@@ -41903,7 +42231,9 @@ y = 359;
 width = 782;
 }
 );
-note = "\012    three\012  ";
+note = "
+    three
+  ";
 unicode = 10114;
 },
 {
@@ -42121,7 +42451,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 width = 782;
 }
 );
-note = "\012    four\012  ";
+note = "
+    four
+  ";
 unicode = 10115;
 },
 {
@@ -42403,7 +42735,9 @@ y = 202;
 width = 782;
 }
 );
-note = "\012    five\012  ";
+note = "
+    five
+  ";
 unicode = 10116;
 },
 {
@@ -42693,7 +43027,9 @@ y = 204;
 width = 782;
 }
 );
-note = "\012    six\012  ";
+note = "
+    six
+  ";
 unicode = 10117;
 },
 {
@@ -42895,7 +43231,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 width = 782;
 }
 );
-note = "\012    seven\012  ";
+note = "
+    seven
+  ";
 unicode = 10118;
 },
 {
@@ -43238,7 +43576,9 @@ y = 513;
 width = 782;
 }
 );
-note = "\012    eight\012  ";
+note = "
+    eight
+  ";
 unicode = 10119;
 },
 {
@@ -43542,7 +43882,9 @@ y = 453;
 width = 782;
 }
 );
-note = "\012    nine\012  ";
+note = "
+    nine
+  ";
 unicode = 10120;
 },
 {
@@ -43668,7 +44010,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 width = 745;
 }
 );
-note = "\012    one\012  ";
+note = "
+    one
+  ";
 sortName = Nu.circledSansSerifBlack.0000;
 unicode = 127244;
 },
@@ -43759,7 +44103,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 width = 745;
 }
 );
-note = "\012    one\012  ";
+note = "
+    one
+  ";
 unicode = 10122;
 },
 {
@@ -43897,7 +44243,9 @@ y = 452;
 width = 745;
 }
 );
-note = "\012    two\012  ";
+note = "
+    two
+  ";
 unicode = 10123;
 },
 {
@@ -44187,7 +44535,9 @@ y = 280;
 width = 745;
 }
 );
-note = "\012    three\012  ";
+note = "
+    three
+  ";
 unicode = 10124;
 },
 {
@@ -44371,7 +44721,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 16:50:51 +0000";
 width = 745;
 }
 );
-note = "\012    four\012  ";
+note = "
+    four
+  ";
 unicode = 10125;
 },
 {
@@ -44619,7 +44971,9 @@ y = 202;
 width = 745;
 }
 );
-note = "\012    five\012  ";
+note = "
+    five
+  ";
 unicode = 10126;
 },
 {
@@ -44875,7 +45229,9 @@ y = 204;
 width = 745;
 }
 );
-note = "\012    six\012  ";
+note = "
+    six
+  ";
 unicode = 10127;
 },
 {
@@ -45043,7 +45399,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2020-07-23 19:59:56 +0000";
 width = 745;
 }
 );
-note = "\012    seven\012  ";
+note = "
+    seven
+  ";
 unicode = 10128;
 },
 {
@@ -45345,7 +45703,9 @@ y = 487;
 width = 745;
 }
 );
-note = "\012    eight\012  ";
+note = "
+    eight
+  ";
 unicode = 10129;
 },
 {
@@ -45615,7 +45975,9 @@ y = 453;
 width = 745;
 }
 );
-note = "\012    nine\012  ";
+note = "
+    nine
+  ";
 unicode = 10130;
 },
 {
@@ -45671,7 +46033,9 @@ com.typemytype.robofont.mark = (
 width = 384;
 }
 );
-note = "\012    zero\012  ";
+note = "
+    zero
+  ";
 },
 {
 glyphname = one.dnom;
@@ -45706,7 +46070,9 @@ com.typemytype.robofont.mark = (
 width = 258;
 }
 );
-note = "\012    one\012  ";
+note = "
+    one
+  ";
 },
 {
 glyphname = two.dnom;
@@ -45768,7 +46134,9 @@ com.typemytype.robofont.mark = (
 width = 370;
 }
 );
-note = "\012    two\012  ";
+note = "
+    two
+  ";
 },
 {
 glyphname = three.dnom;
@@ -45851,7 +46219,9 @@ com.typemytype.robofont.mark = (
 width = 371;
 }
 );
-note = "\012    three\012  ";
+note = "
+    three
+  ";
 },
 {
 glyphname = four.dnom;
@@ -45926,7 +46296,9 @@ com.typemytype.robofont.mark = (
 width = 408;
 }
 );
-note = "\012    four\012  ";
+note = "
+    four
+  ";
 },
 {
 glyphname = five.dnom;
@@ -46071,7 +46443,9 @@ com.typemytype.robofont.mark = (
 width = 379;
 }
 );
-note = "\012    five\012  ";
+note = "
+    five
+  ";
 },
 {
 glyphname = six.dnom;
@@ -46126,7 +46500,9 @@ com.typemytype.robofont.mark = (
 width = 385;
 }
 );
-note = "\012    six\012  ";
+note = "
+    six
+  ";
 },
 {
 glyphname = seven.dnom;
@@ -46161,7 +46537,9 @@ com.typemytype.robofont.mark = (
 width = 356;
 }
 );
-note = "\012    seven\012  ";
+note = "
+    seven
+  ";
 },
 {
 glyphname = eight.dnom;
@@ -46224,7 +46602,9 @@ com.typemytype.robofont.mark = (
 width = 373;
 }
 );
-note = "\012    eight\012  ";
+note = "
+    eight
+  ";
 },
 {
 glyphname = nine.dnom;
@@ -46293,7 +46673,9 @@ com.typemytype.robofont.mark = (
 width = 385;
 }
 );
-note = "\012    nine\012  ";
+note = "
+    nine
+  ";
 },
 {
 glyphname = zero.numr;
@@ -46506,7 +46888,9 @@ com.typemytype.robofont.mark = (
 width = 384;
 }
 );
-note = "\012    zero\012  ";
+note = "
+    zero
+  ";
 },
 {
 glyphname = one.numr;
@@ -46637,7 +47021,9 @@ com.typemytype.robofont.mark = (
 width = 258;
 }
 );
-note = "\012    one\012  ";
+note = "
+    one
+  ";
 },
 {
 glyphname = two.numr;
@@ -46862,7 +47248,9 @@ com.typemytype.robofont.mark = (
 width = 370;
 }
 );
-note = "\012    two\012  ";
+note = "
+    two
+  ";
 },
 {
 glyphname = three.numr;
@@ -47229,7 +47617,9 @@ com.typemytype.robofont.mark = (
 width = 371;
 }
 );
-note = "\012    three\012  ";
+note = "
+    three
+  ";
 },
 {
 glyphname = four.numr;
@@ -47380,7 +47770,9 @@ com.typemytype.robofont.mark = (
 width = 408;
 }
 );
-note = "\012    four\012  ";
+note = "
+    four
+  ";
 },
 {
 glyphname = five.numr;
@@ -47657,7 +48049,9 @@ com.typemytype.robofont.mark = (
 width = 379;
 }
 );
-note = "\012    five\012  ";
+note = "
+    five
+  ";
 },
 {
 glyphname = six.numr;
@@ -47946,7 +48340,9 @@ com.typemytype.robofont.mark = (
 width = 385;
 }
 );
-note = "\012    six\012  ";
+note = "
+    six
+  ";
 },
 {
 glyphname = seven.numr;
@@ -48057,7 +48453,9 @@ com.typemytype.robofont.mark = (
 width = 356;
 }
 );
-note = "\012    seven\012  ";
+note = "
+    seven
+  ";
 },
 {
 glyphname = eight.numr;
@@ -48428,7 +48826,9 @@ com.typemytype.robofont.mark = (
 width = 373;
 }
 );
-note = "\012    eight\012  ";
+note = "
+    eight
+  ";
 },
 {
 glyphname = nine.numr;
@@ -48731,7 +49131,9 @@ com.typemytype.robofont.mark = (
 width = 385;
 }
 );
-note = "\012    nine\012  ";
+note = "
+    nine
+  ";
 },
 {
 glyphname = fraction;
@@ -48784,7 +49186,9 @@ com.typemytype.robofont.mark = (
 width = 303;
 }
 );
-note = "\012    fraction\012  ";
+note = "
+    fraction
+  ";
 unicode = 8260;
 },
 {
@@ -49423,7 +49827,9 @@ com.typemytype.robofont.mark = (
 width = 384;
 }
 );
-note = "\012    zero\012  ";
+note = "
+    zero
+  ";
 unicode = 8320;
 },
 {
@@ -49555,7 +49961,9 @@ com.typemytype.robofont.mark = (
 width = 258;
 }
 );
-note = "\012    one\012  ";
+note = "
+    one
+  ";
 unicode = 8321;
 },
 {
@@ -49781,7 +50189,9 @@ com.typemytype.robofont.mark = (
 width = 370;
 }
 );
-note = "\012    two\012  ";
+note = "
+    two
+  ";
 unicode = 8322;
 },
 {
@@ -50149,7 +50559,9 @@ com.typemytype.robofont.mark = (
 width = 371;
 }
 );
-note = "\012    three\012  ";
+note = "
+    three
+  ";
 unicode = 8323;
 },
 {
@@ -50301,7 +50713,9 @@ com.typemytype.robofont.mark = (
 width = 408;
 }
 );
-note = "\012    four\012  ";
+note = "
+    four
+  ";
 unicode = 8324;
 },
 {
@@ -50579,7 +50993,9 @@ com.typemytype.robofont.mark = (
 width = 379;
 }
 );
-note = "\012    five\012  ";
+note = "
+    five
+  ";
 unicode = 8325;
 },
 {
@@ -50869,7 +51285,9 @@ com.typemytype.robofont.mark = (
 width = 385;
 }
 );
-note = "\012    six\012  ";
+note = "
+    six
+  ";
 unicode = 8326;
 },
 {
@@ -50981,7 +51399,9 @@ com.typemytype.robofont.mark = (
 width = 356;
 }
 );
-note = "\012    seven\012  ";
+note = "
+    seven
+  ";
 unicode = 8327;
 },
 {
@@ -51353,7 +51773,9 @@ com.typemytype.robofont.mark = (
 width = 373;
 }
 );
-note = "\012    eight\012  ";
+note = "
+    eight
+  ";
 unicode = 8328;
 },
 {
@@ -51657,7 +52079,9 @@ com.typemytype.robofont.mark = (
 width = 385;
 }
 );
-note = "\012    nine\012  ";
+note = "
+    nine
+  ";
 unicode = 8329;
 },
 {
@@ -51931,7 +52355,9 @@ com.typemytype.robofont.mark = (
 width = 384;
 }
 );
-note = "\012    zero\012  ";
+note = "
+    zero
+  ";
 unicode = 8304;
 },
 {
@@ -52089,7 +52515,9 @@ com.typemytype.robofont.mark = (
 width = 258;
 }
 );
-note = "\012    one\012  ";
+note = "
+    one
+  ";
 unicode = 185;
 },
 {
@@ -52369,7 +52797,9 @@ com.typemytype.robofont.mark = (
 width = 370;
 }
 );
-note = "\012    two\012  ";
+note = "
+    two
+  ";
 unicode = 178;
 },
 {
@@ -52831,7 +53261,9 @@ com.typemytype.robofont.mark = (
 width = 371;
 }
 );
-note = "\012    three\012  ";
+note = "
+    three
+  ";
 unicode = 179;
 },
 {
@@ -53023,7 +53455,9 @@ com.typemytype.robofont.mark = (
 width = 408;
 }
 );
-note = "\012    four\012  ";
+note = "
+    four
+  ";
 unicode = 8308;
 },
 {
@@ -53369,7 +53803,9 @@ com.typemytype.robofont.mark = (
 width = 379;
 }
 );
-note = "\012    five\012  ";
+note = "
+    five
+  ";
 unicode = 8309;
 },
 {
@@ -53747,7 +54183,9 @@ com.typemytype.robofont.mark = (
 width = 385;
 }
 );
-note = "\012    six\012  ";
+note = "
+    six
+  ";
 unicode = 8310;
 },
 {
@@ -53877,7 +54315,9 @@ com.typemytype.robofont.mark = (
 width = 356;
 }
 );
-note = "\012    seven\012  ";
+note = "
+    seven
+  ";
 unicode = 8311;
 },
 {
@@ -54371,7 +54811,9 @@ com.typemytype.robofont.mark = (
 width = 373;
 }
 );
-note = "\012    eight\012  ";
+note = "
+    eight
+  ";
 unicode = 8312;
 },
 {
@@ -54763,7 +55205,9 @@ com.typemytype.robofont.mark = (
 width = 385;
 }
 );
-note = "\012    nine\012  ";
+note = "
+    nine
+  ";
 unicode = 8313;
 },
 {
@@ -55343,7 +55787,9 @@ y = 345;
 width = 834;
 }
 );
-note = "\012    .notdef\012  ";
+note = "
+    .notdef
+  ";
 },
 {
 glyphname = emquad;
@@ -55502,7 +55948,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 width = 260;
 }
 );
-note = "\012    space\012  ";
+note = "
+    space
+  ";
 unicode = 32;
 },
 {
@@ -55616,7 +56064,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 width = 291;
 }
 );
-note = "\012    period\012  ";
+note = "
+    period
+  ";
 unicode = 46;
 },
 {
@@ -55784,7 +56234,9 @@ width = 338;
 width = 300;
 }
 );
-note = "\012    comma\012  ";
+note = "
+    comma
+  ";
 unicode = 44;
 },
 {
@@ -56042,7 +56494,9 @@ com.typemytype.robofont.mark = (
 width = 291;
 }
 );
-note = "\012    colon\012  ";
+note = "
+    colon
+  ";
 unicode = 58;
 },
 {
@@ -56355,7 +56809,9 @@ com.typemytype.robofont.mark = (
 width = 299;
 }
 );
-note = "\012    semicolon\012  ";
+note = "
+    semicolon
+  ";
 unicode = 59;
 },
 {
@@ -56636,7 +57092,9 @@ width = 876;
 );
 metricLeft = "=period";
 metricRight = "=period";
-note = "\012    ellipsis\012  ";
+note = "
+    ellipsis
+  ";
 unicode = 8230;
 },
 {
@@ -56748,7 +57206,9 @@ y = 121;
 width = 282;
 }
 );
-note = "\012    exclam\012  ";
+note = "
+    exclam
+  ";
 unicode = 33;
 },
 {
@@ -56964,7 +57424,9 @@ com.typemytype.robofont.mark = (
 width = 282;
 }
 );
-note = "\012    exclamdown\012  ";
+note = "
+    exclamdown
+  ";
 unicode = 161;
 },
 {
@@ -57105,7 +57567,9 @@ width = 613;
 width = 547;
 }
 );
-note = "\012    question\012  ";
+note = "
+    question
+  ";
 unicode = 63;
 },
 {
@@ -57453,7 +57917,9 @@ com.typemytype.robofont.mark = (
 width = 531;
 }
 );
-note = "\012    questiondown\012  ";
+note = "
+    questiondown
+  ";
 unicode = 191;
 },
 {
@@ -57583,7 +58049,9 @@ width = 291;
 );
 metricLeft = "=period";
 metricRight = "=period";
-note = "\012    periodcentered\012  ";
+note = "
+    periodcentered
+  ";
 unicode = 183;
 },
 {
@@ -57639,7 +58107,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 width = 361;
 }
 );
-note = "\012    bullet\012  ";
+note = "
+    bullet
+  ";
 unicode = 8226;
 },
 {
@@ -57781,7 +58251,9 @@ com.typemytype.robofont.mark = (
 width = 430;
 }
 );
-note = "\012    asterisk\012  ";
+note = "
+    asterisk
+  ";
 unicode = 42;
 },
 {
@@ -57889,7 +58361,9 @@ com.typemytype.robofont.mark = (
 width = 711;
 }
 );
-note = "\012    numbersign\012  ";
+note = "
+    numbersign
+  ";
 unicode = 35;
 },
 {
@@ -57929,7 +58403,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 width = 523;
 }
 );
-note = "\012    slash\012  ";
+note = "
+    slash
+  ";
 unicode = 47;
 },
 {
@@ -58029,7 +58505,9 @@ width = 523;
 );
 metricLeft = "=|slash";
 metricRight = "=|slash";
-note = "\012    backslash\012  ";
+note = "
+    backslash
+  ";
 unicode = 92;
 },
 {
@@ -58226,7 +58704,9 @@ y = 300;
 width = 370;
 }
 );
-note = "\012    hyphen\012  ";
+note = "
+    hyphen
+  ";
 unicode = 45;
 },
 {
@@ -58268,7 +58748,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 width = 576;
 }
 );
-note = "\012    endash\012  ";
+note = "
+    endash
+  ";
 unicode = 8211;
 },
 {
@@ -58310,7 +58792,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:34 +0000";
 width = 963;
 }
 );
-note = "\012    emdash\012  ";
+note = "
+    emdash
+  ";
 unicode = 8212;
 },
 {
@@ -58350,7 +58834,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:15 +0000";
 width = 562;
 }
 );
-note = "\012    underscore\012  ";
+note = "
+    underscore
+  ";
 unicode = 95;
 },
 {
@@ -58410,7 +58896,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 width = 352;
 }
 );
-note = "\012    parenleft\012  ";
+note = "
+    parenleft
+  ";
 unicode = 40;
 },
 {
@@ -58580,7 +59068,9 @@ com.typemytype.robofont.mark = (
 width = 352;
 }
 );
-note = "\012    parenleft\012  ";
+note = "
+    parenleft
+  ";
 unicode = 41;
 },
 {
@@ -58754,7 +59244,9 @@ y = 601;
 width = 341;
 }
 );
-note = "\012    braceleft\012  ";
+note = "
+    braceleft
+  ";
 unicode = 123;
 },
 {
@@ -59202,7 +59694,9 @@ com.typemytype.robofont.mark = (
 width = 341;
 }
 );
-note = "\012    braceright\012  ";
+note = "
+    braceright
+  ";
 unicode = 125;
 },
 {
@@ -59279,7 +59773,9 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:15 +0000";
 width = 349;
 }
 );
-note = "\012    bracketleft\012  ";
+note = "
+    bracketleft
+  ";
 unicode = 91;
 },
 {
@@ -59470,7 +59966,9 @@ com.typemytype.robofont.mark = (
 width = 349;
 }
 );
-note = "\012    bracketright\012  ";
+note = "
+    bracketright
+  ";
 unicode = 93;
 },
 {
@@ -59622,7 +60120,9 @@ com.typemytype.robofont.mark = (
 width = 295;
 }
 );
-note = "\012    quotesinglbase\012  ";
+note = "
+    quotesinglbase
+  ";
 unicode = 8218;
 },
 {
@@ -59874,7 +60374,9 @@ width = 567;
 );
 metricLeft = "=quotesinglbase";
 metricRight = "=quotesinglbase";
-note = "\012    quotedblbase\012  ";
+note = "
+    quotedblbase
+  ";
 unicode = 8222;
 },
 {
@@ -60248,7 +60750,9 @@ width = 567;
 );
 metricLeft = "=quoteleft";
 metricRight = "=quoteleft";
-note = "\012    quotedblleft\012  ";
+note = "
+    quotedblleft
+  ";
 unicode = 8220;
 },
 {
@@ -60525,7 +61029,9 @@ width = 566;
 );
 metricLeft = "=quoteright";
 metricRight = "=quoteright";
-note = "\012    quotedblright\012  ";
+note = "
+    quotedblright
+  ";
 unicode = 8221;
 },
 {
@@ -60721,7 +61227,9 @@ width = 333;
 width = 295;
 }
 );
-note = "\012    quoteleft\012  ";
+note = "
+    quoteleft
+  ";
 unicode = 8216;
 },
 {
@@ -61013,7 +61521,9 @@ com.typemytype.robofont.mark = (
 width = 295;
 }
 );
-note = "\012    quoteright\012  ";
+note = "
+    quoteright
+  ";
 unicode = 8217;
 },
 {
@@ -61162,7 +61672,9 @@ width = 650;
 );
 metricLeft = "=guilsinglleft";
 metricRight = "=guilsinglleft";
-note = "\012    guillemotleft\012  ";
+note = "
+    guillemotleft
+  ";
 unicode = 171;
 },
 {
@@ -61311,7 +61823,9 @@ width = 650;
 );
 metricLeft = "=guilsinglright";
 metricRight = "=guilsinglright";
-note = "\012    guillemotleft\012  ";
+note = "
+    guillemotleft
+  ";
 unicode = 187;
 },
 {
@@ -61419,7 +61933,9 @@ width = 428;
 width = 382;
 }
 );
-note = "\012    guilsinglleft\012  ";
+note = "
+    guilsinglleft
+  ";
 unicode = 8249;
 },
 {
@@ -61537,7 +62053,9 @@ width = 382;
 );
 metricLeft = "=|guilsinglleft";
 metricWidth = "=guilsinglleft";
-note = "\012    guilsinglright\012  ";
+note = "
+    guilsinglright
+  ";
 unicode = 8250;
 },
 {
@@ -61675,7 +62193,9 @@ width = 456;
 );
 metricLeft = "=quotesingle";
 metricRight = "=quotesingle";
-note = "\012    quotedbl\012  ";
+note = "
+    quotedbl
+  ";
 unicode = 34;
 },
 {
@@ -61739,7 +62259,9 @@ y = 683;
 width = 234;
 }
 );
-note = "\012    quotesingle\012  ";
+note = "
+    quotesingle
+  ";
 unicode = 39;
 },
 {
@@ -62849,7 +63371,9 @@ com.typemytype.robofont.mark = (
 width = 873;
 }
 );
-note = "\012    at\012  ";
+note = "
+    at
+  ";
 unicode = 64;
 },
 {
@@ -63015,7 +63539,9 @@ com.typemytype.robofont.mark = (
 width = 644;
 }
 );
-note = "\012    ampersand\012  ";
+note = "
+    ampersand
+  ";
 unicode = 38;
 },
 {
@@ -63149,7 +63675,9 @@ com.typemytype.robofont.mark = (
 width = 721;
 }
 );
-note = "\012    paragraph\012  ";
+note = "
+    paragraph
+  ";
 unicode = 182;
 },
 {
@@ -64123,7 +64651,9 @@ com.typemytype.robofont.mark = (
 width = 577;
 }
 );
-note = "\012    section\012  ";
+note = "
+    section
+  ";
 unicode = 167;
 },
 {
@@ -64930,7 +65460,9 @@ com.typemytype.robofont.mark = (
 width = 666;
 }
 );
-note = "\012    copyright\012  ";
+note = "
+    copyright
+  ";
 unicode = 169;
 },
 {
@@ -65742,7 +66274,9 @@ com.typemytype.robofont.mark = (
 width = 665;
 }
 );
-note = "\012    registered\012  ";
+note = "
+    registered
+  ";
 unicode = 174;
 },
 {
@@ -65871,7 +66405,9 @@ com.typemytype.robofont.mark = (
 width = 883;
 }
 );
-note = "\012    trademark\012  ";
+note = "
+    trademark
+  ";
 unicode = 8482;
 },
 {
@@ -65975,7 +66511,9 @@ com.typemytype.robofont.mark = (
 width = 379;
 }
 );
-note = "\012    degree\012  ";
+note = "
+    degree
+  ";
 unicode = 176;
 },
 {
@@ -66031,7 +66569,9 @@ com.typemytype.robofont.mark = (
 width = 256;
 }
 );
-note = "\012    bar\012  ";
+note = "
+    bar
+  ";
 unicode = 124;
 },
 {
@@ -66177,7 +66717,9 @@ com.typemytype.robofont.mark = (
 width = 256;
 }
 );
-note = "\012    brokenbar\012  ";
+note = "
+    brokenbar
+  ";
 unicode = 166;
 },
 {
@@ -66536,7 +67078,9 @@ com.typemytype.robofont.mark = (
 width = 512;
 }
 );
-note = "\012    cent\012  ";
+note = "
+    cent
+  ";
 unicode = 162;
 },
 {
@@ -66712,7 +67256,9 @@ com.typemytype.robofont.mark = (
 width = 565;
 }
 );
-note = "\012    currency\012  ";
+note = "
+    currency
+  ";
 unicode = 164;
 },
 {
@@ -66895,7 +67441,9 @@ com.typemytype.robofont.mark = (
 width = 577;
 }
 );
-note = "\012    dollar\012  ";
+note = "
+    dollar
+  ";
 unicode = 36;
 },
 {
@@ -67466,7 +68014,9 @@ com.typemytype.robofont.mark = (
 width = 662;
 }
 );
-note = "\012    Euro\012  ";
+note = "
+    Euro
+  ";
 unicode = 8364;
 },
 {
@@ -67624,7 +68174,9 @@ com.typemytype.robofont.mark = (
 width = 567;
 }
 );
-note = "\012    sterling\012  ";
+note = "
+    sterling
+  ";
 unicode = 163;
 },
 {
@@ -67725,7 +68277,9 @@ com.typemytype.robofont.mark = (
 width = 610;
 }
 );
-note = "\012    yen\012  ";
+note = "
+    yen
+  ";
 unicode = 165;
 },
 {
@@ -67737,19 +68291,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(334,100,l),
-(334,580,l),
-(244,580,l),
-(244,100,l)
+(374,100,l),
+(374,580,l),
+(284,580,l),
+(284,100,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(531,290,l),
-(531,380,l),
-(60,380,l),
-(60,290,l)
+(571,290,l),
+(571,380,l),
+(100,380,l),
+(100,290,l)
 );
 }
 );
@@ -67770,7 +68324,7 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 591;
+width = 670;
 },
 {
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
@@ -67778,19 +68332,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(355,87,l),
-(355,594,l),
-(173,594,l),
-(173,87,l)
+(426,87,l),
+(426,594,l),
+(244,594,l),
+(244,87,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(514,252,l),
-(514,429,l),
-(15,429,l),
-(15,252,l)
+(585,252,l),
+(585,429,l),
+(86,429,l),
+(86,252,l)
 );
 }
 );
@@ -67812,10 +68366,12 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 529;
+width = 670;
 }
 );
-note = "\012    plus\012  ";
+note = "
+    plus
+  ";
 unicode = 43;
 },
 {
@@ -67829,10 +68385,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(475,385,l),
-(60,385,l),
-(60,295,l),
-(475,295,l)
+(543,385,l),
+(128,385,l),
+(128,295,l),
+(543,295,l)
 );
 }
 );
@@ -67844,7 +68400,7 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 535;
+width = 670;
 },
 {
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
@@ -67852,10 +68408,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(384,429,l),
-(18,429,l),
-(18,252,l),
-(384,252,l)
+(518,429,l),
+(152,429,l),
+(152,252,l),
+(518,252,l)
 );
 }
 );
@@ -67868,10 +68424,12 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 402;
+width = 670;
 }
 );
-note = "\012    minus\012  ";
+note = "
+    minus
+  ";
 unicode = 8722;
 },
 {
@@ -67883,19 +68441,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(108,557,l),
-(47,496,l),
-(419,124,l),
-(480,185,l)
+(180,557,l),
+(119,496,l),
+(491,124,l),
+(552,185,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(108,124,l),
-(480,496,l),
-(419,557,l),
-(47,185,l)
+(180,124,l),
+(552,496,l),
+(491,557,l),
+(119,185,l)
 );
 }
 );
@@ -67999,7 +68557,7 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 527;
+width = 670;
 },
 {
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
@@ -68007,19 +68565,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(153,597,l),
-(27,472,l),
-(415,84,l),
-(540,210,l)
+(205,597,l),
+(79,472,l),
+(467,84,l),
+(592,210,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(153,84,l),
-(540,472,l),
-(415,597,l),
-(27,210,l)
+(205,84,l),
+(592,472,l),
+(467,597,l),
+(79,210,l)
 );
 }
 );
@@ -68032,10 +68590,12 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 568;
+width = 670;
 }
 );
-note = "\012    multiply\012  ";
+note = "
+    multiply
+  ";
 unicode = 215;
 },
 {
@@ -68047,44 +68607,44 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(326,85,o),
-(358,119,o),
-(358,158,cs),
-(358,197,o),
-(326,230,o),
-(285,230,cs),
-(244,230,o),
-(212,197,o),
-(212,158,cs),
-(212,119,o),
-(244,85,o),
-(285,85,cs)
+(374,85,o),
+(406,119,o),
+(406,158,cs),
+(406,197,o),
+(374,230,o),
+(333,230,cs),
+(292,230,o),
+(260,197,o),
+(260,158,cs),
+(260,119,o),
+(292,85,o),
+(333,85,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(326,451,o),
-(358,485,o),
-(358,524,cs),
-(358,563,o),
-(326,596,o),
-(285,596,cs),
-(244,596,o),
-(212,563,o),
-(212,524,cs),
-(212,485,o),
-(244,451,o),
-(285,451,cs)
+(374,451,o),
+(406,485,o),
+(406,524,cs),
+(406,563,o),
+(374,596,o),
+(333,596,cs),
+(292,596,o),
+(260,563,o),
+(260,524,cs),
+(260,485,o),
+(292,451,o),
+(333,451,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(532,386,l),
-(43,386,l),
-(43,296,l),
-(532,296,l)
+(580,386,l),
+(91,386,l),
+(91,296,l),
+(580,296,l)
 );
 }
 );
@@ -68105,7 +68665,7 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 575;
+width = 670;
 },
 {
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
@@ -68113,44 +68673,44 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(355,25,o),
-(406,66,o),
-(406,130,cs),
-(406,193,o),
-(355,235,o),
-(279,235,cs),
-(202,235,o),
-(152,193,o),
-(152,130,cs),
-(152,66,o),
-(202,25,o),
-(279,25,cs)
+(409,25,o),
+(460,66,o),
+(460,130,cs),
+(460,193,o),
+(409,235,o),
+(333,235,cs),
+(256,235,o),
+(206,193,o),
+(206,130,cs),
+(206,66,o),
+(256,25,o),
+(333,25,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(355,446,o),
-(406,487,o),
-(406,548,cs),
-(406,614,o),
-(355,656,o),
-(279,656,cs),
-(202,656,o),
-(152,614,o),
-(152,548,cs),
-(152,487,o),
-(202,446,o),
-(279,446,cs)
+(409,446,o),
+(460,487,o),
+(460,548,cs),
+(460,614,o),
+(409,656,o),
+(333,656,cs),
+(256,656,o),
+(206,614,o),
+(206,548,cs),
+(206,487,o),
+(256,446,o),
+(333,446,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(548,430,l),
-(15,430,l),
-(15,251,l),
-(548,251,l)
+(602,430,l),
+(69,430,l),
+(69,251,l),
+(602,251,l)
 );
 }
 );
@@ -68163,10 +68723,12 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 564;
+width = 670;
 }
 );
-note = "\012    divide\012  ";
+note = "
+    divide
+  ";
 unicode = 247;
 },
 {
@@ -68178,19 +68740,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(485,343,l),
-(485,423,l),
-(60,423,l),
-(60,343,l)
+(548,343,l),
+(548,423,l),
+(123,423,l),
+(123,343,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(485,157,l),
-(485,237,l),
-(60,237,l),
-(60,157,l)
+(548,157,l),
+(548,237,l),
+(123,237,l),
+(123,157,l)
 );
 }
 );
@@ -68202,7 +68764,7 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 545;
+width = 670;
 },
 {
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
@@ -68210,19 +68772,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(518,329,l),
-(518,505,l),
-(15,505,l),
-(15,329,l)
+(587,329,l),
+(587,505,l),
+(84,505,l),
+(84,329,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(518,94,l),
-(518,270,l),
-(15,270,l),
-(15,94,l)
+(587,94,l),
+(587,270,l),
+(84,270,l),
+(84,94,l)
 );
 }
 );
@@ -68235,10 +68797,12 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 533;
+width = 670;
 }
 );
-note = "\012    equal\012  ";
+note = "
+    equal
+  ";
 unicode = 61;
 },
 {
@@ -68250,28 +68814,28 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(401,533,l),
-(329,559,l),
-(137,41,l),
-(209,15,l)
+(465,533,l),
+(393,559,l),
+(201,41,l),
+(273,15,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(484,343,l),
-(484,423,l),
-(59,423,l),
-(59,343,l)
+(548,343,l),
+(548,423,l),
+(123,423,l),
+(123,343,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(484,157,l),
-(484,237,l),
-(59,237,l),
-(59,157,l)
+(548,157,l),
+(548,237,l),
+(123,237,l),
+(123,157,l)
 );
 }
 );
@@ -68406,7 +68970,7 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 544;
+width = 670;
 },
 {
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
@@ -68414,28 +68978,28 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(445,551,l),
-(290,608,l),
-(76,50,l),
-(229,-9,l)
+(514,551,l),
+(359,608,l),
+(145,50,l),
+(298,-9,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(518,331,l),
-(518,507,l),
-(15,507,l),
-(15,331,l)
+(587,331,l),
+(587,507,l),
+(84,507,l),
+(84,331,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(518,95,l),
-(518,271,l),
-(15,271,l),
-(15,95,l)
+(587,95,l),
+(587,271,l),
+(84,271,l),
+(84,95,l)
 );
 }
 );
@@ -68457,10 +69021,12 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 533;
+width = 670;
 }
 );
-note = "\012    notequal\012  ";
+note = "
+    notequal
+  ";
 unicode = 8800;
 },
 {
@@ -68472,14 +69038,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(441,266,l),
-(441,315,l),
-(73,539,l),
-(34,473,l),
-(350,278,l),
-(350,303,l),
-(34,108,l),
-(73,42,l)
+(539,266,l),
+(539,315,l),
+(171,539,l),
+(132,473,l),
+(448,278,l),
+(448,303,l),
+(132,108,l),
+(171,42,l)
 );
 }
 );
@@ -68491,7 +69057,7 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 467;
+width = 670;
 },
 {
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
@@ -68499,14 +69065,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(500,258,l),
-(500,362,l),
-(99,607,l),
-(15,469,l),
-(403,230,l),
-(403,390,l),
-(15,151,l),
-(99,14,l)
+(578,258,l),
+(578,362,l),
+(177,607,l),
+(93,469,l),
+(481,230,l),
+(481,390,l),
+(93,151,l),
+(177,14,l)
 );
 }
 );
@@ -68519,10 +69085,12 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 524;
+width = 670;
 }
 );
-note = "\012    greater\012  ";
+note = "
+    greater
+  ";
 unicode = 62;
 },
 {
@@ -68534,14 +69102,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(433,115,l),
-(117,310,l),
-(117,278,l),
-(433,473,l),
-(387,546,l),
-(26,322,l),
-(26,266,l),
-(387,42,l)
+(539,115,l),
+(223,310,l),
+(223,278,l),
+(539,473,l),
+(493,546,l),
+(132,322,l),
+(132,266,l),
+(493,42,l)
 );
 }
 );
@@ -68553,7 +69121,7 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 467;
+width = 670;
 },
 {
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
@@ -68561,14 +69129,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(508,151,l),
-(121,390,l),
-(121,230,l),
-(508,469,l),
-(425,607,l),
-(24,362,l),
-(24,258,l),
-(425,14,l)
+(577,151,l),
+(190,390,l),
+(190,230,l),
+(577,469,l),
+(494,607,l),
+(93,362,l),
+(93,258,l),
+(494,14,l)
 );
 }
 );
@@ -68581,10 +69149,12 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 524;
+width = 670;
 }
 );
-note = "\012    greater\012  ";
+note = "
+    greater
+  ";
 unicode = 60;
 },
 {
@@ -68596,23 +69166,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(51,25,l),
-(453,25,l),
-(453,115,l),
-(51,115,l)
+(136,25,l),
+(538,25,l),
+(538,115,l),
+(136,115,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(453,425,l),
-(84,578,l),
-(47,499,l),
-(369,374,l),
-(369,402,l),
-(47,277,l),
-(84,198,l),
-(453,351,l)
+(538,425,l),
+(169,578,l),
+(132,499,l),
+(454,374,l),
+(454,402,l),
+(132,277,l),
+(169,198,l),
+(538,351,l)
 );
 }
 );
@@ -68633,7 +69203,7 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 513;
+width = 670;
 },
 {
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
@@ -68641,23 +69211,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(34,0,l),
-(508,0,l),
-(508,176,l),
-(34,176,l)
+(108,0,l),
+(582,0,l),
+(582,176,l),
+(108,176,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(508,520,l),
-(86,709,l),
-(15,548,l),
-(429,393,l),
-(429,517,l),
-(15,362,l),
-(86,201,l),
-(508,390,l)
+(582,520,l),
+(160,709,l),
+(89,548,l),
+(503,393,l),
+(503,517,l),
+(89,362,l),
+(160,201,l),
+(582,390,l)
 );
 }
 );
@@ -68679,10 +69249,12 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 531;
+width = 670;
 }
 );
-note = "\012    lessequal\012  ";
+note = "
+    lessequal
+  ";
 unicode = 8805;
 },
 {
@@ -68694,23 +69266,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(60,115,l),
-(60,25,l),
-(462,25,l),
-(462,115,l)
+(132,115,l),
+(132,25,l),
+(534,25,l),
+(534,115,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(429,198,l),
-(466,277,l),
-(144,402,l),
-(144,374,l),
-(466,499,l),
-(429,578,l),
-(60,425,l),
-(60,351,l)
+(501,198,l),
+(538,277,l),
+(216,402,l),
+(216,374,l),
+(538,499,l),
+(501,578,l),
+(132,425,l),
+(132,351,l)
 );
 }
 );
@@ -68731,7 +69303,7 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 513;
+width = 670;
 },
 {
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
@@ -68739,23 +69311,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(24,176,l),
-(24,0,l),
-(498,0,l),
-(498,176,l)
+(89,176,l),
+(89,0,l),
+(563,0,l),
+(563,176,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(445,201,l),
-(516,362,l),
-(103,517,l),
-(103,393,l),
-(516,548,l),
-(445,709,l),
-(24,520,l),
-(24,390,l)
+(510,201,l),
+(581,362,l),
+(168,517,l),
+(168,393,l),
+(581,548,l),
+(510,709,l),
+(89,520,l),
+(89,390,l)
 );
 }
 );
@@ -68777,10 +69349,12 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 531;
+width = 670;
 }
 );
-note = "\012    lessequal\012  ";
+note = "
+    lessequal
+  ";
 unicode = 8804;
 },
 {
@@ -68792,28 +69366,28 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(531,370,l),
-(531,460,l),
-(60,460,l),
-(60,370,l)
+(571,370,l),
+(571,460,l),
+(100,460,l),
+(100,370,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(531,20,l),
-(531,110,l),
-(60,110,l),
-(60,20,l)
+(571,20,l),
+(571,110,l),
+(100,110,l),
+(100,20,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(334,200,l),
-(334,640,l),
-(244,640,l),
-(244,200,l)
+(374,200,l),
+(374,640,l),
+(284,640,l),
+(284,200,l)
 );
 }
 );
@@ -68825,7 +69399,7 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 591;
+width = 670;
 },
 {
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
@@ -68833,28 +69407,28 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(514,332,l),
-(514,512,l),
-(15,512,l),
-(15,332,l)
+(585,332,l),
+(585,512,l),
+(86,512,l),
+(86,332,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(514,-8,l),
-(514,172,l),
-(15,172,l),
-(15,-8,l)
+(585,-8,l),
+(585,172,l),
+(86,172,l),
+(86,-8,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(349,210,l),
-(349,644,l),
-(169,644,l),
-(169,210,l)
+(420,210,l),
+(420,644,l),
+(240,644,l),
+(240,210,l)
 );
 }
 );
@@ -68867,10 +69441,12 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 529;
+width = 670;
 }
 );
-note = "\012    plusminus\012  ";
+note = "
+    plusminus
+  ";
 unicode = 177;
 },
 {
@@ -68882,51 +69458,51 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(404,424,o),
-(386,399,o),
-(351,399,cs),
-(298,399,o),
-(266,453,o),
-(191,453,cs),
-(120,453,o),
-(86,408,o),
-(60,354,c),
-(134,316,l),
-(154,348,o),
-(173,372,o),
-(207,372,cs),
-(260,372,o),
-(294,319,o),
-(367,319,cs),
-(441,319,o),
-(475,365,o),
-(499,417,c),
-(423,454,l)
+(460,424,o),
+(442,399,o),
+(407,399,cs),
+(354,399,o),
+(322,453,o),
+(247,453,cs),
+(176,453,o),
+(142,408,o),
+(116,354,c),
+(190,316,l),
+(210,348,o),
+(229,372,o),
+(263,372,cs),
+(316,372,o),
+(350,319,o),
+(423,319,cs),
+(497,319,o),
+(531,365,o),
+(555,417,c),
+(479,454,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(423,264,l),
-(404,234,o),
-(386,209,o),
-(351,209,cs),
-(298,209,o),
-(266,263,o),
-(191,263,cs),
-(120,263,o),
-(86,218,o),
-(60,164,c),
-(134,126,l),
-(154,157,o),
-(173,181,o),
-(207,181,cs),
-(260,181,o),
-(294,128,o),
-(367,128,cs),
-(441,128,o),
-(475,175,o),
-(499,227,c)
+(479,264,l),
+(460,234,o),
+(442,209,o),
+(407,209,cs),
+(354,209,o),
+(322,263,o),
+(247,263,cs),
+(176,263,o),
+(142,218,o),
+(116,164,c),
+(190,126,l),
+(210,157,o),
+(229,181,o),
+(263,181,cs),
+(316,181,o),
+(350,128,o),
+(423,128,cs),
+(497,128,o),
+(531,175,o),
+(555,227,c)
 );
 }
 );
@@ -68938,7 +69514,7 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 559;
+width = 670;
 },
 {
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
@@ -68946,51 +69522,51 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(419,499,o),
-(404,481,o),
-(379,481,cs),
-(326,481,o),
-(290,529,o),
-(202,529,cs),
-(116,529,o),
-(74,478,o),
-(24,381,c),
-(175,303,l),
-(198,340,o),
-(213,358,o),
-(239,358,cs),
-(291,358,o),
-(328,310,o),
-(415,310,cs),
-(501,310,o),
-(544,361,o),
-(594,458,c),
-(442,536,l)
+(445,499,o),
+(430,481,o),
+(405,481,cs),
+(352,481,o),
+(316,529,o),
+(228,529,cs),
+(142,529,o),
+(100,478,o),
+(50,381,c),
+(201,303,l),
+(224,340,o),
+(239,358,o),
+(265,358,cs),
+(317,358,o),
+(354,310,o),
+(441,310,cs),
+(527,310,o),
+(570,361,o),
+(620,458,c),
+(468,536,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(442,263,l),
-(419,227,o),
-(404,209,o),
-(379,209,cs),
-(326,209,o),
-(290,257,o),
-(202,257,cs),
-(116,257,o),
-(74,205,o),
-(24,109,c),
-(175,31,l),
-(198,67,o),
-(213,85,o),
-(239,85,cs),
-(291,85,o),
-(328,37,o),
-(415,37,cs),
-(501,37,o),
-(544,89,o),
-(594,185,c)
+(468,263,l),
+(445,227,o),
+(430,209,o),
+(405,209,cs),
+(352,209,o),
+(316,257,o),
+(228,257,cs),
+(142,257,o),
+(100,205,o),
+(50,109,c),
+(201,31,l),
+(224,67,o),
+(239,85,o),
+(265,85,cs),
+(317,85,o),
+(354,37,o),
+(441,37,cs),
+(527,37,o),
+(570,89,o),
+(620,185,c)
 );
 }
 );
@@ -69164,10 +69740,12 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 617;
+width = 670;
 }
 );
-note = "\012    approxequal\012  ";
+note = "
+    approxequal
+  ";
 unicode = 8776;
 },
 {
@@ -69179,26 +69757,26 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(117,249,o),
-(143,280,o),
-(189,280,cs),
-(255,280,o),
-(290,213,o),
-(382,213,cs),
-(471,213,o),
-(518,267,o),
-(555,332,c),
-(482,373,l),
-(454,327,o),
-(428,296,o),
-(382,296,cs),
-(316,296,o),
-(281,363,o),
-(189,363,cs),
-(100,363,o),
-(53,309,o),
-(16,244,c),
-(89,203,l)
+(167,249,o),
+(193,280,o),
+(239,280,cs),
+(305,280,o),
+(340,213,o),
+(432,213,cs),
+(521,213,o),
+(568,267,o),
+(605,332,c),
+(532,373,l),
+(504,327,o),
+(478,296,o),
+(432,296,cs),
+(366,296,o),
+(331,363,o),
+(239,363,cs),
+(150,363,o),
+(103,309,o),
+(66,244,c),
+(139,203,l)
 );
 }
 );
@@ -69210,7 +69788,7 @@ com.typemytype.robofont.mark = (
 0.45
 );
 };
-width = 564;
+width = 670;
 },
 {
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
@@ -69218,26 +69796,26 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(162,251,o),
-(180,272,o),
-(209,272,cs),
-(269,272,o),
-(307,212,o),
-(390,212,cs),
-(489,212,o),
-(537,271,o),
-(580,369,c),
-(444,437,l),
-(424,389,o),
-(401,364,o),
-(371,364,cs),
-(311,364,o),
-(274,426,o),
-(190,426,cs),
-(94,426,o),
-(48,365,o),
-(0,270,c),
-(137,200,l)
+(207,251,o),
+(225,272,o),
+(254,272,cs),
+(314,272,o),
+(352,212,o),
+(435,212,cs),
+(534,212,o),
+(582,271,o),
+(625,369,c),
+(489,437,l),
+(469,389,o),
+(446,364,o),
+(416,364,cs),
+(356,364,o),
+(319,426,o),
+(235,426,cs),
+(139,426,o),
+(93,365,o),
+(45,270,c),
+(182,200,l)
 );
 }
 );
@@ -69250,10 +69828,12 @@ com.typemytype.robofont.mark = (
 0.45
 );
 };
-width = 580;
+width = 670;
 }
 );
-note = "\012    asciitilde\012  ";
+note = "
+    asciitilde
+  ";
 unicode = 126;
 },
 {
@@ -69265,19 +69845,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(506,350,l),
-(416,350,l),
-(416,90,l),
-(506,90,l)
+(563,350,l),
+(473,350,l),
+(473,90,l),
+(563,90,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(506,350,l),
-(51,350,l),
-(51,260,l),
-(506,260,l)
+(563,350,l),
+(108,350,l),
+(108,260,l),
+(563,260,l)
 );
 }
 );
@@ -69289,7 +69869,7 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 571;
+width = 670;
 },
 {
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
@@ -69297,19 +69877,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(532,438,l),
-(350,438,l),
-(350,107,l),
-(532,107,l)
+(594,438,l),
+(412,438,l),
+(412,107,l),
+(594,107,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(532,438,l),
-(15,438,l),
-(15,256,l),
-(532,256,l)
+(594,438,l),
+(77,438,l),
+(77,256,l),
+(594,256,l)
 );
 }
 );
@@ -69322,10 +69902,12 @@ com.typemytype.robofont.mark = (
 0.3
 );
 };
-width = 556;
+width = 670;
 }
 );
-note = "\012    logicalnot\012  ";
+note = "
+    logicalnot
+  ";
 unicode = 172;
 },
 {
@@ -69337,12 +69919,12 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(211,546,l),
-(9,368,l),
-(60,312,l),
-(211,441,l),
-(362,312,l),
-(413,368,l)
+(335,546,l),
+(133,368,l),
+(184,312,l),
+(335,441,l),
+(486,312,l),
+(537,368,l)
 );
 }
 );
@@ -69354,7 +69936,7 @@ com.typemytype.robofont.mark = (
 0.45
 );
 };
-width = 422;
+width = 670;
 },
 {
 layerId = "1CA3C852-39F9-4810-8045-E03244E0B506";
@@ -69362,12 +69944,12 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(255,587,l),
-(0,361,l),
-(97,254,l),
-(255,390,l),
-(413,254,l),
-(510,361,l)
+(335,587,l),
+(80,361,l),
+(177,254,l),
+(335,390,l),
+(493,254,l),
+(590,361,l)
 );
 }
 );
@@ -69380,10 +69962,12 @@ com.typemytype.robofont.mark = (
 0.45
 );
 };
-width = 510;
+width = 670;
 }
 );
-note = "\012    asciicircum\012  ";
+note = "
+    asciicircum
+  ";
 unicode = 94;
 },
 {
@@ -69529,7 +70113,9 @@ com.typemytype.robofont.mark = (
 width = 858;
 }
 );
-note = "\012    infinity\012  ";
+note = "
+    infinity
+  ";
 unicode = 8734;
 },
 {
@@ -69676,7 +70262,9 @@ com.typemytype.robofont.mark = (
 width = 807;
 }
 );
-note = "\012    oslash\012  ";
+note = "
+    oslash
+  ";
 unicode = 8709;
 },
 {
@@ -70088,7 +70676,9 @@ com.typemytype.robofont.mark = (
 width = 651;
 }
 );
-note = "\012    dotaccent\012  ";
+note = "
+    dotaccent
+  ";
 sortName = op190;
 unicode = 10193;
 },
@@ -70598,7 +71188,9 @@ com.typemytype.robofont.mark = (
 width = 383;
 }
 );
-note = "\012    integral\012  ";
+note = "
+    integral
+  ";
 unicode = 8747;
 },
 {
@@ -70718,12 +71310,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(373,520,l),
-(336,520,l),
-(603,0,l),
-(586,94,l),
-(124,94,l),
-(105,0,l)
+(354,484,l),
+(555,94,l),
+(153,94,l)
 );
 }
 );
@@ -70743,12 +71332,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(482,492,l),
-(344,492,l),
-(597,0,l),
-(617,173,l),
-(181,173,l),
-(229,-1,l)
+(413,358,l),
+(508,173,l),
+(318,173,l)
 );
 }
 );
@@ -70936,7 +71522,9 @@ com.typemytype.robofont.mark = (
 width = 659;
 }
 );
-note = "\012    H\012  ";
+note = "
+    H
+  ";
 unicode = 8719;
 },
 {
@@ -71072,7 +71660,9 @@ com.typemytype.robofont.mark = (
 width = 596;
 }
 );
-note = "\012    summation\012  ";
+note = "
+    summation
+  ";
 unicode = 8721;
 },
 {
@@ -71152,7 +71742,9 @@ com.typemytype.robofont.mark = (
 width = 816;
 }
 );
-note = "\012    radical\012  ";
+note = "
+    radical
+  ";
 unicode = 8730;
 },
 {
@@ -71525,7 +72117,9 @@ com.typemytype.robofont.mark = (
 width = 582;
 }
 );
-note = "\012    partialdiff\012  ";
+note = "
+    partialdiff
+  ";
 unicode = 8706;
 },
 {
@@ -72374,7 +72968,9 @@ com.typemytype.robofont.mark = (
 width = 823;
 }
 );
-note = "\012    percent\012  ";
+note = "
+    percent
+  ";
 unicode = 37;
 },
 {
@@ -73085,7 +73681,9 @@ com.typemytype.robofont.mark = (
 width = 1185;
 }
 );
-note = "\012    percent\012  ";
+note = "
+    percent
+  ";
 unicode = 8240;
 },
 {
@@ -74594,7 +75192,9 @@ com.typemytype.robofont.mark = (
 width = 501;
 }
 );
-note = "\012    arrowup\012  ";
+note = "
+    arrowup
+  ";
 unicode = 8593;
 },
 {
@@ -74715,7 +75315,9 @@ com.typemytype.robofont.mark = (
 width = 716;
 }
 );
-note = "\012    uni2197\012  ";
+note = "
+    uni2197
+  ";
 unicode = 8599;
 },
 {
@@ -74893,7 +75495,9 @@ com.typemytype.robofont.mark = (
 width = 904;
 }
 );
-note = "\012    arrowright\012  ";
+note = "
+    arrowright
+  ";
 unicode = 8594;
 },
 {
@@ -75014,7 +75618,9 @@ com.typemytype.robofont.mark = (
 width = 716;
 }
 );
-note = "\012    uni2199\012  ";
+note = "
+    uni2199
+  ";
 unicode = 8600;
 },
 {
@@ -75153,7 +75759,9 @@ com.typemytype.robofont.mark = (
 width = 501;
 }
 );
-note = "\012    arrowdown\012  ";
+note = "
+    arrowdown
+  ";
 unicode = 8595;
 },
 {
@@ -75301,7 +75909,9 @@ com.typemytype.robofont.mark = (
 width = 716;
 }
 );
-note = "\012    uni2198\012  ";
+note = "
+    uni2198
+  ";
 unicode = 8601;
 },
 {
@@ -75377,7 +75987,9 @@ y = 340;
 width = 904;
 }
 );
-note = "\012    arrowleft\012  ";
+note = "
+    arrowleft
+  ";
 unicode = 8592;
 },
 {
@@ -75545,7 +76157,9 @@ com.typemytype.robofont.mark = (
 width = 716;
 }
 );
-note = "\012    uni2196\012  ";
+note = "
+    uni2196
+  ";
 unicode = 8598;
 },
 {
@@ -75873,7 +76487,9 @@ com.typemytype.robofont.mark = (
 width = 1113;
 }
 );
-note = "\012    uni21C6\012  ";
+note = "
+    uni21C6
+  ";
 unicode = 8644;
 },
 {
@@ -76797,7 +77413,9 @@ com.typemytype.robofont.mark = (
 width = 609;
 }
 );
-note = "\012    lozenge\012  ";
+note = "
+    lozenge
+  ";
 unicode = 9674;
 },
 {
@@ -76989,7 +77607,9 @@ width = 576;
 }
 );
 metricWidth = "=zero.tf";
-note = "\012    dieresis\012  ";
+note = "
+    dieresis
+  ";
 unicode = 776;
 },
 {
@@ -77098,7 +77718,9 @@ width = 576;
 }
 );
 metricWidth = "=zero.tf";
-note = "\012    dotaccent\012  ";
+note = "
+    dotaccent
+  ";
 unicode = 775;
 },
 {
@@ -77174,7 +77796,9 @@ width = 576;
 );
 metricRight = "=|acutecomb";
 metricWidth = "=zero.tf";
-note = "\012    grave\012  ";
+note = "
+    grave
+  ";
 unicode = 768;
 },
 {
@@ -77249,7 +77873,9 @@ width = 576;
 }
 );
 metricWidth = "=zero.tf";
-note = "\012    acute\012  ";
+note = "
+    acute
+  ";
 unicode = 769;
 },
 {
@@ -77392,7 +78018,9 @@ com.typemytype.robofont.mark = (
 width = 147;
 }
 );
-note = "\012    caron.alt\012  ";
+note = "
+    caron.alt
+  ";
 },
 {
 glyphname = circumflexcomb;
@@ -77497,7 +78125,9 @@ width = 576;
 }
 );
 metricWidth = "=zero.tf";
-note = "\012    circumflex\012  ";
+note = "
+    circumflex
+  ";
 unicode = 770;
 },
 {
@@ -77804,7 +78434,9 @@ width = 576;
 }
 );
 metricWidth = "=zero.tf";
-note = "\012    ring\012  ";
+note = "
+    ring
+  ";
 unicode = 778;
 },
 {
@@ -78016,7 +78648,9 @@ width = 380;
 }
 );
 metricWidth = "=zero.tf";
-note = "\012    tilde\012  ";
+note = "
+    tilde
+  ";
 unicode = 771;
 },
 {
@@ -78600,7 +79234,9 @@ width = 259;
 }
 );
 metricWidth = "=zero.tf";
-note = "\012    cedilla\012  ";
+note = "
+    cedilla
+  ";
 unicode = 807;
 },
 {
@@ -79182,7 +79818,9 @@ width = 576;
 }
 );
 metricWidth = "=zero.tf";
-note = "\012    dieresis\012  ";
+note = "
+    dieresis
+  ";
 },
 {
 glyphname = circumflexcomb.narrow;
@@ -79287,7 +79925,9 @@ width = 576;
 }
 );
 metricWidth = "=zero.tf";
-note = "\012    circumflex\012  ";
+note = "
+    circumflex
+  ";
 },
 {
 glyphname = macroncomb.narrow;
@@ -79405,7 +80045,9 @@ width = 576;
 }
 );
 metricWidth = "=zero.tf";
-note = "\012    macron\012  ";
+note = "
+    macron
+  ";
 },
 {
 glyphname = dieresis;
@@ -79515,7 +80157,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    dieresis\012  ";
+note = "
+    dieresis
+  ";
 unicode = 168;
 },
 {
@@ -79577,7 +80221,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    dotaccent\012  ";
+note = "
+    dotaccent
+  ";
 unicode = 729;
 },
 {
@@ -79621,7 +80267,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    grave\012  ";
+note = "
+    grave
+  ";
 unicode = 96;
 },
 {
@@ -79665,7 +80313,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    acute\012  ";
+note = "
+    acute
+  ";
 unicode = 180;
 },
 {
@@ -79727,7 +80377,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    hungarumlaut\012  ";
+note = "
+    hungarumlaut
+  ";
 unicode = 733;
 },
 {
@@ -79796,7 +80448,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    circumflex\012  ";
+note = "
+    circumflex
+  ";
 unicode = 710;
 },
 {
@@ -79885,7 +80539,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    caron\012  ";
+note = "
+    caron
+  ";
 unicode = 711;
 },
 {
@@ -80099,7 +80755,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    breve\012  ";
+note = "
+    breve
+  ";
 unicode = 728;
 },
 {
@@ -80152,7 +80810,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    ring\012  ";
+note = "
+    ring
+  ";
 unicode = 730;
 },
 {
@@ -80214,7 +80874,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    tilde\012  ";
+note = "
+    tilde
+  ";
 unicode = 732;
 },
 {
@@ -80258,7 +80920,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    macron\012  ";
+note = "
+    macron
+  ";
 unicode = 175;
 },
 {
@@ -80302,7 +80966,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    cedilla\012  ";
+note = "
+    cedilla
+  ";
 unicode = 184;
 },
 {
@@ -80346,7 +81012,9 @@ com.typemytype.robofont.mark = (
 width = 576;
 }
 );
-note = "\012    ogonek\012  ";
+note = "
+    ogonek
+  ";
 unicode = 731;
 },
 {
@@ -80404,24 +81072,19 @@ com.schriftgestaltung.Glyphs.lastChange = "2017-03-20 13:19:11 +0000";
 width = 284;
 }
 );
-note = "\012    period\012  ";
+note = "
+    period
+  ";
 }
 );
 instances = (
 {
-axesValues = (
-0
-);
 customParameters = (
 {
 name = fileName;
 value = GabaritoVariable;
 }
 );
-instanceInterpolations = {
-"1CA3C852-39F9-4810-8045-E03244E0B506" = -1.23457;
-"344A0678-763D-4FBD-9EF6-1E94428A847E" = 2.23457;
-};
 name = Regular;
 properties = (
 {
@@ -81658,6 +82321,7 @@ underscore = -30;
 "@MMK_R_germandbls" = -15;
 "@MMK_R_guillemetleft" = -100;
 "@MMK_R_guillemetright" = -90;
+"@MMK_R_icirc" = 30;
 "@MMK_R_n" = -80;
 "@MMK_R_o" = -80;
 "@MMK_R_percent" = -1;
@@ -81695,9 +82359,6 @@ fiveinferior = -120;
 four = -50;
 fourinferior = -110;
 foursuperior = 10;
-icircumflex = 40;
-idieresis = 50;
-igrave = 50;
 nine = -30;
 nineinferior = -110;
 numbersign = -60;
@@ -82596,7 +83257,6 @@ three = -40;
 two = -50;
 };
 "@MMK_L_i" = {
-"@MMK_R_T" = 50;
 "@MMK_R_Y" = -20;
 "@MMK_R_a" = -5;
 "@MMK_R_h" = 0;
@@ -82605,6 +83265,9 @@ ampersand = -10;
 comma = -10;
 ordfeminine = -10;
 trademark = -5;
+};
+"@MMK_L_icirc" = {
+"@MMK_R_T" = 30;
 };
 "@MMK_L_j" = {
 "@MMK_R_T" = 50;
@@ -85411,9 +86074,6 @@ exclamdown = -35;
 fiveinferior = -55;
 four = -45;
 fourinferior = -80;
-icircumflex = 20;
-idieresis = 45;
-igrave = 45;
 nineinferior = -75;
 numbersign = -45;
 oneinferior = -75;
@@ -85431,6 +86091,7 @@ twoinferior = -100;
 underscore = -90;
 zero = -20;
 zeroinferior = -75;
+"@MMK_R_icirc" = 45;
 };
 "@MMK_L_Thorn" = {
 "@MMK_R_A" = -10;
@@ -87023,7 +87684,6 @@ icircumflex = {
 "@MMK_R_T" = 20;
 };
 idieresis = {
-"@MMK_R_T" = 45;
 "@MMK_R_V" = 35;
 "@MMK_R_W" = 35;
 "@MMK_R_X" = 25;
@@ -87797,6 +88457,9 @@ zerosuperior = {
 four = -25;
 six = -10;
 zero = -10;
+};
+"@MMK_L_icirc" = {
+"@MMK_R_T" = 45;
 };
 };
 };
